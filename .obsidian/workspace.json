@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "860a24d13151e7d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f53313b001c00b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9faf8c447a977700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my_project/SimpleEthercat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18c6a660a5feb4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "39d7d9a02db2b574",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0543157223ad58c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1019b2cebfb5bfa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b9ab525108e9b9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e81e160aed15d769",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5ff7742c1a5b18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ccbf27f28dfd7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "my_project/SimpleEthercat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91539b21ea6cca68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "my_project/SimpleEthercat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdfc8df733c00035",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aff907e7263445c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "my_project/SimpleEthercat.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9faf8c447a977700",
+  "lastOpenFiles": [
+    "my_project/SimpleEthercat",
+    "README.md",
+    "my_project/SimpleEthercat.md",
+    "my_project"
+  ]
+}
