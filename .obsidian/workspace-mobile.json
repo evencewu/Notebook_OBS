@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project 1/Orthrus/Orthrus.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "robotic/my_project 1/Orthrus/Orthrus.md",
+            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "robotic/my_project 1/Orthrus/Orthrus.md",
+            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "robotic/my_project 1/Orthrus/Orthrus.md"
+            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
           }
         }
       }
@@ -133,7 +133,7 @@
   },
   "active": "306a21e8e7bbf668",
   "lastOpenFiles": [
-    "robotic/my_project/orthrus.md",
-    "robotic/my_project 1/Orthrus/Orthrus.md"
+    "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project/orthrus.md"
   ]
 }
