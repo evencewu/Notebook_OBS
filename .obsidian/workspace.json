@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md"
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "9faf8c447a977700",
   "lastOpenFiles": [
+    "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "robotic/my_project/SimpleEthercat",
+    "robotic/my_project/Orthrus",
     "robotic/my_project 1/Orthrus/Orthrus.md",
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
@@ -157,15 +162,12 @@
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/paper/note",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/doc",
     "robotic/my_project 1/SimpleEthercat",
     "robotic/my_project 1/Orthrus",
     "robotic/paper",
     "robotic/my_project 1",
     "robotic/my_project",
-    "robotic",
-    "README.md",
-    "my_project/Orthrus"
+    "README.md"
   ]
 }
