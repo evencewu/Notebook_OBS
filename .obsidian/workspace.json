@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+                "file": "fpga/FPGA学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+                "file": "fpga/FPGA学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+                "file": "fpga/FPGA学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
+                "file": "fpga/FPGA学习.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "9faf8c447a977700",
   "lastOpenFiles": [
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "fpga/FPGA学习.md",
+    "fpga",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/SimpleEthercat",
     "robotic/my_project/Orthrus",
     "robotic/my_project 1/Orthrus/Orthrus.md",
@@ -167,7 +169,6 @@
     "robotic/my_project 1/Orthrus",
     "robotic/paper",
     "robotic/my_project 1",
-    "robotic/my_project",
     "README.md"
   ]
 }
