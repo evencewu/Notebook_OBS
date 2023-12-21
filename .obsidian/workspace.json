@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f53313b001c00b70",
+        "id": "d43196dc68c75c94",
         "type": "tabs",
         "children": [
           {
-            "id": "9faf8c447a977700",
+            "id": "4967cbc27c32b6a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9faf8c447a977700",
+  "active": "4967cbc27c32b6a7",
   "lastOpenFiles": [
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "fpga/FPGA学习.md",
