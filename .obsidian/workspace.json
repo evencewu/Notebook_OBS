@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "file": "robotic/note/moviet2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "file": "robotic/note/moviet2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "file": "robotic/note/moviet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md"
+                "file": "robotic/note/moviet2.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "3c201943a5b8aaab",
   "lastOpenFiles": [
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "robotic/note/moviet2.md",
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/note/moviet2.md",
     "fpga/FPGA学习.md",
     "robotic/note",
     "fpga",
