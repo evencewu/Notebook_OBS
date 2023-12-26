@@ -1,6 +1,12 @@
-# 简介：
 
-* 持续迭代的四足机器人
+```cardlink
+url: https://github.com/evencewu/orthrus-1
+title: "GitHub - evencewu/orthrus-1: Quadruped robot"
+description: "Quadruped robot. Contribute to evencewu/orthrus-1 development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/a88e2be1e34b2b7ad280de2389ec2dc58283e75e9ce592137b694824761e6a28/evencewu/orthrus-1
+```
 
 ## 版本迭代:
 * orthrus-0 testdemo
