@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fpga/FPGA学习.md",
+                "file": "robotic/note/moviet2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fpga/FPGA学习.md",
+                "file": "robotic/note/moviet2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fpga/FPGA学习.md",
+                "file": "robotic/note/moviet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fpga/FPGA学习.md"
+                "file": "robotic/note/moviet2.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80ee31dd5a3519e8",
+  "active": "f0543157223ad58c",
   "lastOpenFiles": [
+    "fpga/FPGA学习.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/note/moviet2.md",
-    "fpga/FPGA学习.md",
     "robotic/note",
     "fpga",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
