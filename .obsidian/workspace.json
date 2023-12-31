@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/note/moviet2.md"
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "3c201943a5b8aaab",
   "lastOpenFiles": [
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/note/moviet2.md",
     "conflict-files-obsidian-git.md",
     "fpga/FPGA学习.md",
