@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed6b7dc0fd59d944",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/note/moviet2.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/note/moviet2.md"
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
               }
             }
           }
@@ -157,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed6b7dc0fd59d944",
+  "active": "3c201943a5b8aaab",
   "lastOpenFiles": [
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/note/moviet2.md",
     "fpga/FPGA学习.md",
     "robotic/note",
