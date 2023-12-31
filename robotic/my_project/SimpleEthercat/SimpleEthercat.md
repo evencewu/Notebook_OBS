@@ -16,3 +16,18 @@ description: "文章浏览阅读2.5w次。ununtu系统安装过程中，系统�
 host: blog.csdn.net
 ```
 
+### udev规则
+
+```cardlink
+url: https://xilinx.eetrend.com/content/2020/100059215.html
+title: "开发者分享 | 使用 lspci 和 setpci 调试 PCIe 问题 | 电子创新网赛灵思社区"
+host: xilinx.eetrend.com
+```
+
+```cardlink
+url: https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/cha-udev.html
+title: "使用 udev 进行动态内核设备管理 | SLES 15 SP1"
+description: "内核几乎可以添加或删除运行系统中的任何设备。设备状态的更改（无论插入还是移除设备）需要传播给用户空间。插入及识别设备后需要对其进…"
+host: documentation.suse.com
+image: https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/document.jpg
+```
