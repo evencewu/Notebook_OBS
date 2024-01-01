@@ -31,3 +31,5 @@ description: "内核几乎可以添加或删除运行系统中的任何设备。
 host: documentation.suse.com
 image: https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/document.jpg
 ```
+、、、
+lspci -vs 05:00.0
