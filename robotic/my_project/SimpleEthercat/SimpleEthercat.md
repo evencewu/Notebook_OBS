@@ -31,3 +31,25 @@ description: "内核几乎可以添加或删除运行系统中的任何设备。
 host: documentation.suse.com
 image: https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/https://documentation.suse.com/zh-cn/sles/15-SP1/html/SLES-all/document.jpg
 ```
+
+```cardlink
+url: https://www.volcengine.com/theme/1743769-U-7-1
+title: "ubuntu禁止pci设备"
+description: "火山引擎是字节跳动旗下的云服务平台，将字节跳动快速发展过程中积累的增长方法、技术能力和应用工具开放给外部企业，提供云基础、视频与内容分发、数智平台VeDI、人工智能、开发与运维等服务，帮助企业在数字化升级中实现持续增长。本页核心内容：ubuntu禁止pci设备"
+host: www.volcengine.com
+favicon: https://portal.volccdn.com/obj/volcfe/misc/favicon.png
+```
+
+
+```cardlink
+url: https://zhuanlan.zhihu.com/p/373517974
+title: "LINUX下 Udev详解"
+description: "LINUX下 Udev详解转发自 LINUX下 Udev详解_okhymok的博客-CSDN博客okhymok 2017-08-31 12:50:26 16968 收藏 44 分类专栏： 硬件信息 如果你使用Linux比较长时间了，那你就知道，在对待设备文件这块，Linux改变了几…"
+host: zhuanlan.zhihu.com
+```
+
+
+```bash
+lspci
+lspci -vs 05:00.0
+```
