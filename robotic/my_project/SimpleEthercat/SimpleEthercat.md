@@ -1,4 +1,3 @@
-**
 ```cardlink
 url: https://github.com/evencewu/SimpleEthercat
 title: "GitHub - evencewu/SimpleEthercat: Simple Ethercat demo"
