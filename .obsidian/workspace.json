@@ -11,12 +11,8 @@
             "id": "3c201943a5b8aaab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +140,9 @@
   },
   "active": "3c201943a5b8aaab",
   "lastOpenFiles": [
-    "robotic/note/moviet2.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/note/moviet2.md",
     "fpga/FPGA学习.md",
     "robotic/note",
     "fpga",

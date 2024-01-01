@@ -48,8 +48,16 @@ description: "LINUX下 Udev详解转发自 LINUX下 Udev详解_okhymok的博客-
 host: zhuanlan.zhihu.com
 ```
 
-
 ```bash
 lspci
 lspci -vs 05:00.0
+```
+
+
+```cardlink
+url: https://unix.stackexchange.com/questions/141255/give-a-specific-user-permissions-to-a-device-without-giving-access-to-other-user
+title: "Give a specific user permissions to a device without giving access to other users"
+description: "I have a card reader attached on /dev/sdb.What I do is giving all permissions to owner, group and the rest of the world, using:sudo chmod 777 /dev/sdbCan I just use another combination, allow..."
+host: unix.stackexchange.com
+image: https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon@2.png?v=32fb07f7ce26
 ```
