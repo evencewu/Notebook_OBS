@@ -40,11 +40,12 @@ host: www.volcengine.com
 favicon: https://portal.volccdn.com/obj/volcfe/misc/favicon.png
 ```
 
+
 ```cardlink
-url: https://www.linuxfly.org/post/540/
-title: "[原]简述udev的自定义规则 - linuxの飘扬 - Power by www.linuxfly.org"
-description: "Power by www.linuxfly.org"
-host: www.linuxfly.org
+url: https://zhuanlan.zhihu.com/p/373517974
+title: "LINUX下 Udev详解"
+description: "LINUX下 Udev详解转发自 LINUX下 Udev详解_okhymok的博客-CSDN博客okhymok 2017-08-31 12:50:26 16968 收藏 44 分类专栏： 硬件信息 如果你使用Linux比较长时间了，那你就知道，在对待设备文件这块，Linux改变了几…"
+host: zhuanlan.zhihu.com
 ```
 
 
