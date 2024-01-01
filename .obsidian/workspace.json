@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/my_project/project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/my_project/project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/my_project/project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/robotic.md"
+                "file": "robotic/my_project/project.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ea842e8495c5e3b1",
   "lastOpenFiles": [
-    "robotic/note/moviet2.md",
     "robotic/robotic.md",
+    "robotic/my_project/project.md",
+    "robotic/note/moviet2.md",
     "README.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
