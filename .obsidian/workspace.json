@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4935613bc3b8a2a1",
+        "id": "6124b187858d07af",
         "type": "tabs",
         "children": [
           {
-            "id": "3c201943a5b8aaab",
+            "id": "4881baaf926073ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/paper/robotic 论文阅读.md",
+                "file": "robotic/robotic目录.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/paper/robotic 论文阅读.md",
+                "file": "robotic/robotic目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/paper/robotic 论文阅读.md",
+                "file": "robotic/robotic目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/paper/robotic 论文阅读.md"
+                "file": "robotic/robotic目录.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c201943a5b8aaab",
+  "active": "4881baaf926073ac",
   "lastOpenFiles": [
+    "robotic/paper/robotic 论文阅读.md",
+    "README.md",
     "robotic/robotic目录.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
@@ -162,7 +164,6 @@
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
     "my_project/Orthrus/Orthrus.md",
-    "robotic/paper/robotic 论文阅读.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/paper/note",
@@ -170,7 +171,6 @@
     "robotic/paper/doc",
     "robotic/my_project 1/SimpleEthercat",
     "robotic/my_project 1/Orthrus",
-    "robotic/paper",
-    "README.md"
+    "robotic/paper"
   ]
 }
