@@ -40,6 +40,13 @@ host: www.volcengine.com
 favicon: https://portal.volccdn.com/obj/volcfe/misc/favicon.png
 ```
 
+```cardlink
+url: https://www.linuxfly.org/post/540/
+title: "[原]简述udev的自定义规则 - linuxの飘扬 - Power by www.linuxfly.org"
+description: "Power by www.linuxfly.org"
+host: www.linuxfly.org
+```
+
 
 ```bash
 lspci
