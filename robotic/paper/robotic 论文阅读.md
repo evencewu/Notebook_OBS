@@ -2,7 +2,7 @@
 
 # MPC
 [[Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control]]
-[[Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories]
+[[Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories]]
 # RL 强化学习
 [[Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors]]
 
