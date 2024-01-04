@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cccec1600d9f5f08",
+        "id": "f75d6482c19d4494",
         "type": "tabs",
         "children": [
           {
-            "id": "306a21e8e7bbf668",
+            "id": "70bf313d3f029ae5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-                "mode": "preview",
+                "file": "robotic/paper/robotic 论文阅读.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+            "file": "robotic/paper/robotic 论文阅读.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+            "file": "robotic/paper/robotic 论文阅读.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
+            "file": "robotic/paper/robotic 论文阅读.md"
           }
         }
       }
@@ -131,8 +131,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "306a21e8e7bbf668",
+  "active": "70bf313d3f029ae5",
   "lastOpenFiles": [
+    "robotic/robotic.md",
+    "robotic/note/moviet2.md",
+    "robotic/my_project/project.md",
+    "fpga/FPGA.md",
+    "/robotic/robotic.md",
+    "/robotic/note/moviet2.md",
+    "/robotic/my_project/project.md",
+    "/robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "/robotic/my_project/Orthrus/Orthrus.md",
+    "/fpga/FPGA.md",
+    "robotic/note",
+    "fpga",
+    "/robotic/note",
+    "/fpga",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project/orthrus.md"
   ]
