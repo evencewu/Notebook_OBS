@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/paper/note/未命名.md",
+                "file": "robotic/paper/robotic 论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "robotic/paper/note/未命名.md",
+            "file": "robotic/paper/robotic 论文阅读.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "robotic/paper/note/未命名.md",
+            "file": "robotic/paper/robotic 论文阅读.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "robotic/paper/note/未命名.md"
+            "file": "robotic/paper/robotic 论文阅读.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "4c7ce54c0bc61da8",
   "lastOpenFiles": [
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/paper/note/未命名.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/robotic.md",
     "robotic/note/moviet2.md",
