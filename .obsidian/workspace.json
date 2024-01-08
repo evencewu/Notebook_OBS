@@ -138,8 +138,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d2f60c4876ffb819",
+  "active": "f0543157223ad58c",
   "lastOpenFiles": [
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/robotic.md",
     "fpga/FPGA.md",
     "robotic/my_project/Project.md",
