@@ -6,7 +6,5 @@ host: docs.omniverse.nvidia.com
 ```
 
 ### 关于issacsim的扭矩控制
-
-	![[Pasted image 20240108193503.png]]
-
+* k_p模拟+扭矩传感器闭环
 
