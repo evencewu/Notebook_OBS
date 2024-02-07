@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4069ac0514b9cf87",
+        "id": "ca6c6f99397ea8f1",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6525944e57b538",
+            "id": "ac8508d2a7b9057f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "robotic/Pasted image 20240207230152.png"
+                "file": "robotic/notebook/issac-sim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -164,12 +166,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "243f374fea3c973f",
+  "active": "ac8508d2a7b9057f",
   "lastOpenFiles": [
-    "robotic/Pasted image 20240207230152.png",
-    "robotic/notebook/issac-sim.md",
-    "robotic/notebook/Pasted image 20240108193503.png",
+    "robotic/notebook/appendix/Pasted image 20240208043733.png",
+    "robotic/notebook/appendix",
     "robotic/notebook/moviet2.md",
+    "robotic/notebook/issac-sim.md",
+    "robotic/Pasted image 20240207230152.png",
+    "robotic/notebook/Pasted image 20240108193503.png",
     "robotic/robotic.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
@@ -197,7 +201,6 @@
     "my_project/Orthrus/Orthrus.md",
     "robotic/paper/note",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/paper/doc",
-    "robotic/my_project 1/SimpleEthercat"
+    "robotic/paper/doc"
   ]
 }
