@@ -9,6 +9,6 @@ host: docs.omniverse.nvidia.com
 
 	![[Pasted image 20240108193503.png]]
 
-## FIX BUG >>2023.1.1版本urdf导入后usd无法使用ros插件的问题
-
-需要使用2022.1.1版本的urdf插件转换，zai
+##  2023.1.1版本urdf导入后usd无法使用ros插件的问题
+Q:
+A: NV论坛：需要使用2022.1.1版本的urdf插件转换
