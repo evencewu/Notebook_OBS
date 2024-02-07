@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca6c6f99397ea8f1",
+        "id": "7bbb2ba06b245719",
         "type": "tabs",
         "children": [
           {
-            "id": "ac8508d2a7b9057f",
+            "id": "8be35e9ad05f15bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/issac-sim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "robotic/notebook/issac-sim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,14 +158,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac8508d2a7b9057f",
+  "active": "8be35e9ad05f15bc",
   "lastOpenFiles": [
+    "robotic/notebook/appendix/Pasted image 20240108193503.png",
+    "robotic/notebook/issac-sim.md",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
     "robotic/notebook/moviet2.md",
-    "robotic/notebook/issac-sim.md",
-    "robotic/Pasted image 20240207230152.png",
-    "robotic/notebook/Pasted image 20240108193503.png",
+    "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/robotic.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",

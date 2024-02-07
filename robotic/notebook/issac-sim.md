@@ -15,4 +15,4 @@ host: docs.omniverse.nvidia.com
 	A:  NV论坛：需要使用2022.1.1版本的urdf插件转换
 
 #todo
-- [ ] 可行性验证![[]]
+- [ ] 可行性验证
