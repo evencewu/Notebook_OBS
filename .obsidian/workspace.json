@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "243f374fea3c973f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/issac-sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,18 +88,6 @@
         "id": "8c5ff7742c1a5b18",
         "type": "tabs",
         "children": [
-          {
-            "id": "243f374fea3c973f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/issac-sim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a5ccbf27f28dfd7b",
             "type": "leaf",
