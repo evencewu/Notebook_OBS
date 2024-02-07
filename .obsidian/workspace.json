@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b5dde9d798215e1",
+            "id": "243f374fea3c973f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/issac-sim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "387e85630800e69f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/issac-sim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68d95d0c465d5151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/robotic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/robotic.md"
+                "file": "robotic/notebook/issac-sim.md"
               }
             }
           },
@@ -180,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68d95d0c465d5151",
+  "active": "243f374fea3c973f",
   "lastOpenFiles": [
+    "robotic/robotic.md",
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/moviet2.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
@@ -196,7 +172,6 @@
     "obsidian",
     "conflict-files-obsidian-git.md",
     "robotic/my_project/Project.md",
-    "robotic/robotic.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md",
