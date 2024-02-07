@@ -13,3 +13,4 @@ host: docs.omniverse.nvidia.com
 
 Q: 如何解决
 A:  NV论坛：需要使用2022.1.1版本的urdf插件转换
+- [ ] 可行性验证

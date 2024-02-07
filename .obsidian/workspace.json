@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68d95d0c465d5151",
+  "active": "2aac56b6f7ce2006",
   "lastOpenFiles": [
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issac-sim.md",
