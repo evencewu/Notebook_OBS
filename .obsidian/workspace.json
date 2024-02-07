@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/moviet2.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/moviet2.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/moviet2.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/moviet2.md"
+                "file": "robotic/notebook/issac-sim.md"
               }
             }
+          },
+          {
+            "id": "2aac56b6f7ce2006",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,8 +183,8 @@
   },
   "active": "68d95d0c465d5151",
   "lastOpenFiles": [
-    "robotic/notebook/issac-sim.md",
     "robotic/notebook/moviet2.md",
+    "robotic/notebook/issac-sim.md",
     "robotic/notebook/img/Pasted image 20240108193503.png",
     "robotic/notebook/img",
     "robotic/notebook/img/Pasted image 20240207230152.png",
