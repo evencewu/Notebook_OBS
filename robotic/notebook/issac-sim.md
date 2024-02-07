@@ -4,6 +4,11 @@ url: https://docs.omniverse.nvidia.com/py/isaacsim/source/extensions/omni.isaac.
 title: "Dynamic Control [omni.isaac.dynamic_control] — isaac_sim 2023.1.1-rc.7 documentation"
 host: docs.omniverse.nvidia.com
 ```
+```cardlink
+url: https://docs.omniverse.nvidia.com/extensions/latest/index.html
+title: "Extensions Overview — Omniverse Extensions latest documentation"
+host: docs.omniverse.nvidia.com
+```
 
 ### 关于issacsim的扭矩控制
 
