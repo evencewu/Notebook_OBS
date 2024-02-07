@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e82d6f77150957e4",
+        "id": "4069ac0514b9cf87",
         "type": "tabs",
         "children": [
           {
-            "id": "243f374fea3c973f",
+            "id": "7b6525944e57b538",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
-                "mode": "source",
-                "source": false
+                "file": "robotic/Pasted image 20240207230152.png"
               }
             }
           }
@@ -80,6 +78,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "243f374fea3c973f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/issac-sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a5ccbf27f28dfd7b",
             "type": "leaf",
             "state": {
@@ -137,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,17 +166,17 @@
   },
   "active": "243f374fea3c973f",
   "lastOpenFiles": [
-    "robotic/robotic.md",
+    "robotic/Pasted image 20240207230152.png",
     "robotic/notebook/issac-sim.md",
+    "robotic/notebook/Pasted image 20240108193503.png",
     "robotic/notebook/moviet2.md",
+    "robotic/robotic.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
-    "robotic/notebook/img/Pasted image 20240108193503.png",
     "robotic/notebook/img",
-    "robotic/notebook/img/Pasted image 20240207230152.png",
     "obsidian/obsidian插件&模板.md",
     "obsidian",
     "conflict-files-obsidian-git.md",
