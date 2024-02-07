@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,11 +35,9 @@
             "id": "68d95d0c465d5151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "robotic/note/issac-sim.md",
-                "mode": "source",
-                "source": false
+                "file": "robotic/notebook/Pasted image 20240108193503.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "robotic/notebook/Pasted image 20240108193503.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "robotic/notebook/Pasted image 20240108193503.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/note/issac-sim.md"
+                "file": "robotic/notebook/Pasted image 20240108193503.png"
               }
             }
           }
@@ -173,9 +171,12 @@
   },
   "active": "f0543157223ad58c",
   "lastOpenFiles": [
-    "未命名",
-    "robotic/note/moviet2.md",
-    "robotic/note/issac-sim.md",
+    "robotic/notebook/未命名",
+    "robotic/notebook/Pasted image 20240207230152.png",
+    "obsidian/obsidian插件&模板.md",
+    "robotic/notebook/issac-sim.md",
+    "obsidian",
+    "robotic/notebook/moviet2.md",
     "conflict-files-obsidian-git.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project/Project.md",
@@ -183,13 +184,12 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md",
-    "Pasted image 20240108193503.png",
-    "Pasted image 20240207230152.png",
+    "robotic/notebook/Pasted image 20240108193503.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "fpga/FPGA.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/robotic 论文阅读.md",
-    "robotic/note",
+    "robotic/notebook",
     "fpga",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/SimpleEthercat",
@@ -204,7 +204,6 @@
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/paper/doc",
     "robotic/my_project 1/SimpleEthercat",
-    "robotic/my_project 1/Orthrus",
-    "robotic/paper"
+    "robotic/my_project 1/Orthrus"
   ]
 }
