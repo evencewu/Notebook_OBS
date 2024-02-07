@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2f60c4876ffb819",
+            "id": "4b5dde9d798215e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "387e85630800e69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/note/issac-sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68d95d0c465d5151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/note/issac-sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5e2d39aeb8ef04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/note/issac-sim.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/note/issac-sim.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,19 +183,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d2f60c4876ffb819",
+  "active": "e5e2d39aeb8ef04f",
   "lastOpenFiles": [
-    "Pasted image 20240207230152.png",
-    "Pasted image 20240108193503.png",
     "robotic/note/issac-sim.md",
-    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/robotic.md",
-    "fpga/FPGA.md",
-    "robotic/my_project/Project.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "conflict-files-obsidian-git.md",
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project/Project.md",
+    "robotic/robotic.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "robotic/note/moviet2.md",
     "README.md",
+    "Pasted image 20240108193503.png",
+    "Pasted image 20240207230152.png",
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
+    "fpga/FPGA.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/note",
     "fpga",
