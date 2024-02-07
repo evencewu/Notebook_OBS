@@ -183,6 +183,7 @@
   "active": "68d95d0c465d5151",
   "lastOpenFiles": [
     "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
@@ -200,7 +201,6 @@
     "未命名.canvas",
     "README.md",
     "fpga/FPGA.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook",
     "fpga",
