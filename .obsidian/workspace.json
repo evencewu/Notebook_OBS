@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/robotic.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "robotic/robotic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "robotic/robotic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "robotic/robotic.md"
+              }
             }
           },
           {
@@ -159,10 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8be35e9ad05f15bc",
+  "active": "243f374fea3c973f",
   "lastOpenFiles": [
-    "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/issac-sim.md",
+    "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
     "robotic/notebook/moviet2.md",
