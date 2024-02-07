@@ -35,9 +35,11 @@
             "id": "68d95d0c465d5151",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Pasted image 20240108193503.png"
+                "file": "robotic/notebook/issac-sim.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Pasted image 20240108193503.png",
+                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Pasted image 20240108193503.png",
+                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Pasted image 20240108193503.png"
+                "file": "robotic/notebook/issac-sim.md"
               }
             }
           }
@@ -169,14 +171,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0543157223ad58c",
+  "active": "68d95d0c465d5151",
   "lastOpenFiles": [
-    "robotic/notebook/未命名",
-    "robotic/notebook/Pasted image 20240207230152.png",
-    "obsidian/obsidian插件&模板.md",
-    "robotic/notebook/issac-sim.md",
-    "obsidian",
     "robotic/notebook/moviet2.md",
+    "robotic/notebook/issac-sim.md",
+    "robotic/notebook/img/Pasted image 20240108193503.png",
+    "robotic/notebook/img",
+    "robotic/notebook/img/Pasted image 20240207230152.png",
+    "obsidian/obsidian插件&模板.md",
+    "obsidian",
     "conflict-files-obsidian-git.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project/Project.md",
@@ -184,7 +187,6 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md",
-    "robotic/notebook/Pasted image 20240108193503.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "fpga/FPGA.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
@@ -203,7 +205,6 @@
     "robotic/paper/note",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/paper/doc",
-    "robotic/my_project 1/SimpleEthercat",
-    "robotic/my_project 1/Orthrus"
+    "robotic/my_project 1/SimpleEthercat"
   ]
 }
