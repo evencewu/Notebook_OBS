@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issac-sim.md"
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md"
               }
             }
           },
@@ -180,8 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2aac56b6f7ce2006",
+  "active": "68d95d0c465d5151",
   "lastOpenFiles": [
+    "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/img/Pasted image 20240108193503.png",
@@ -190,13 +194,11 @@
     "obsidian/obsidian插件&模板.md",
     "obsidian",
     "conflict-files-obsidian-git.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/my_project/Project.md",
     "robotic/robotic.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md",
-    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "fpga/FPGA.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/robotic 论文阅读.md",
@@ -209,8 +211,6 @@
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
     "my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
-    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/paper/note",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/paper/doc",
