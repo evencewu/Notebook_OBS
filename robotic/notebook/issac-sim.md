@@ -20,4 +20,6 @@ host: docs.omniverse.nvidia.com
 	A:  NV论坛：需要使用2022.1.1版本的urdf插件转换
 
 #todo
-- [ ] 可行性验证
+- [x] 可行性验证
+
+[Fetching Data#08wz](https://docs.omniverse.nvidia.com/isaacsim/latest/features/robots_simulation/ext_omni_isaac_quadruped.html)

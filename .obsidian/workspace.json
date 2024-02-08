@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/robotic.md"
+                "file": "robotic/notebook/issac-sim.md"
               }
             }
           },
@@ -165,13 +165,13 @@
   },
   "active": "243f374fea3c973f",
   "lastOpenFiles": [
+    "robotic/robotic.md",
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
-    "robotic/robotic.md",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
