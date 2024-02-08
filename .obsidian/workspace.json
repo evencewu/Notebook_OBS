@@ -8,15 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8be35e9ad05f15bc",
+            "id": "243f374fea3c973f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "243f374fea3c973f",
+            "id": "edd63fbf4615d3c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "243f374fea3c973f",
+  "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
-    "robotic/robotic.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/notebook/issac-sim.md",
+    "robotic/robotic.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",

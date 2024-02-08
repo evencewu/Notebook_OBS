@@ -23,8 +23,10 @@ host: docs.omniverse.nvidia.com
 - [x] 可行性验证
 
 ### 关于xacro转urdf
-``ros2 run xacro xacro r2d.urdf.xacro > r2d.urdf
-
+```bash
+ros2 run xacro xacro r2d.urdf.xacro > r2d.urdf
+```
+```
 
 
 ## example
