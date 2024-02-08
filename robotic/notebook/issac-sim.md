@@ -22,4 +22,11 @@ host: docs.omniverse.nvidia.com
 #todo
 - [x] 可行性验证
 
-[Fetching Data#08wz](https://docs.omniverse.nvidia.com/isaacsim/latest/features/robots_simulation/ext_omni_isaac_quadruped.html)
+## example
+
+* 很好的四足机器人仿真
+```cardlink
+url: https://docs.omniverse.nvidia.com/isaacsim/latest/features/robots_simulation/ext_omni_isaac_quadruped.html
+title: "Quadruped Example — Omniverse IsaacSim latest documentation"
+host: docs.omniverse.nvidia.com
+```
