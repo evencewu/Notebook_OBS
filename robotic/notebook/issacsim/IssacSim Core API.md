@@ -5,8 +5,8 @@ title: "4. Core API — Omniverse IsaacSim latest documentation"
 host: docs.omniverse.nvidia.com
 ```
 # 1.0.0 如何通过api创建世界
- * 代码：
-     ``` python
+ ## 示例：
+``` python
 import os  
 
 from omni.isaac.examples.base_sample import BaseSampleExtension
