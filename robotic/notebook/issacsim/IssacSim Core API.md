@@ -4,8 +4,9 @@ url: https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/index.
 title: "4. Core API — Omniverse IsaacSim latest documentation"
 host: docs.omniverse.nvidia.com
 ```
-# 1.0.0 如何通过apichuan'jian
-``` python
+# 1.0.0 如何通过api创建世界
+ * 代码：
+     ``` python
 import os  
 
 from omni.isaac.examples.base_sample import BaseSampleExtension
