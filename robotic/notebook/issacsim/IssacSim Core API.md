@@ -5,3 +5,4 @@ title: "4. Core API — Omniverse IsaacSim latest documentation"
 host: docs.omniverse.nvidia.com
 ```
 # 1.0.0 如何通过api创建世界
+~/.local/share/ov/pkg/isaac_sim-2023.1.1/pyth
