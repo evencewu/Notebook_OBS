@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/notebook/issacsim/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/notebook/issacsim/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issac-sim.md",
+                "file": "robotic/notebook/issacsim/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issac-sim.md"
+                "file": "robotic/notebook/issacsim/未命名.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f0543157223ad58c",
+  "active": "af324eabe3427ee6",
   "lastOpenFiles": [
+    "robotic/notebook/issac-sim.md",
+    "robotic/notebook/issacsim/未命名.md",
+    "robotic/notebook/issacsim/未命名",
     "robotic/notebook/issacsim",
     "robotic/note/issac-sim.md",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/moviet2.md",
-    "robotic/notebook/issac-sim.md",
     "robotic/notebook/appendix",
     "robotic/notebook",
     "obsidian/obsidian插件&模板.md",
@@ -179,8 +181,6 @@
     "my_project/Orthrus/Orthrus.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
-    "robotic/paper/note",
-    "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/paper/doc"
+    "robotic/paper/note"
   ]
 }
