@@ -7,25 +7,74 @@ host: docs.omniverse.nvidia.com
 # 1.0.0 如何通过api创建世界
  ## 示例：
 ``` python
-import os  
+# Copyright (c) 2020-2023, NVIDIA CORPORATION. All rights reserved.
 
-from omni.isaac.examples.base_sample import BaseSampleExtension
-from omni.isaac.examples.hello_world import HelloWorld
+#
 
-class HelloWorldExtension(BaseSampleExtension):
-def on_startup(self, ext_id: str):
-	super().on_startup(ext_id)
-	super().start_extension(
-		menu_name="",
-		submenu_name="",
-		name="Hello World",
-		title="Hello World Example",
-		doc_link="https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/tutorial_core_hello_world.html",
+# NVIDIA CORPORATION and its licensors retain all intellectual property
 
-overview="This Example introduces the user on how to do cool stuff with Isaac Sim through scripting in asynchronous mode.",
-		file_path=os.path.abspath(__file__),
-		sample=HelloWorld(),
-	)
+# and proprietary rights in and to this software, related documentation
+
+# and any modifications thereto. Any use, reproduction, disclosure or
+
+# distribution of this software and related documentation without an express
+
+# license agreement from NVIDIA CORPORATION is strictly prohibited.
+
+#
+
+  
+
+from omni.isaac.examples.base_sample import BaseSample
+
+  
+
+# Note: checkout the required tutorials at https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html
+
+  
+  
+
+class HelloWorld(BaseSample):
+
+def __init__(self) -> None:
+
+super().__init__()
+
+return
+
+  
+
+def setup_scene(self):
+
+  
+
+world = self.get_world()
+
+world.scene.add_default_ground_plane()
+
+return
+
+  
+
+async def setup_post_load(self):
+
+return
+
+  
+
+async def setup_pre_reset(self):
+
+return
+
+  
+
+async def setup_post_reset(self):
+
+return
+
+  
+
+def world_cleanup(self):
 
 return
 ```
