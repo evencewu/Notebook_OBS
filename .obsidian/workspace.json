@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "39d62aef32384285",
+        "id": "7bbb2ba06b245719",
         "type": "tabs",
         "children": [
           {
-            "id": "af324eabe3427ee6",
+            "id": "243f374fea3c973f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edd63fbf4615d3c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e81e160aed15d769",
@@ -128,12 +141,21 @@
                 "file": "robotic/notebook/issacsim/IssacSim Core API.md"
               }
             }
+          },
+          {
+            "id": "2aac56b6f7ce2006",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,34 +165,37 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af324eabe3427ee6",
+  "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
-    "robotic/notebook/issacsim/未命名",
     "robotic/notebook/issacsim",
-    "robotic/note/issac-sim.md",
-    "robotic/notebook/appendix/Pasted image 20240207230152.png",
+    "robotic/robotic.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
-    "robotic/notebook/moviet2.md",
+    "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
-    "robotic/notebook",
+    "robotic/notebook/moviet2.md",
+    "robotic/notebook/appendix/Pasted image 20240207230152.png",
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
+    "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
+    "robotic/notebook/img",
     "obsidian/obsidian插件&模板.md",
     "obsidian",
-    "Pasted image 20240108193503.png",
-    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/robotic.md",
-    "fpga/FPGA.md",
+    "conflict-files-obsidian-git.md",
     "robotic/my_project/Project.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
-    "robotic/note/moviet2.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "README.md",
+    "fpga/FPGA.md",
     "robotic/paper/robotic 论文阅读.md",
-    "robotic/note",
+    "robotic/notebook",
     "fpga",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/SimpleEthercat",
@@ -179,8 +204,7 @@
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
     "my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
-    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
-    "robotic/paper/note"
+    "robotic/paper/note",
+    "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf"
   ]
 }
