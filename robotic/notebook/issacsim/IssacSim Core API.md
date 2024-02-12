@@ -6,3 +6,4 @@ host: docs.omniverse.nvidia.com
 ```
 # 1.0.0 如何通过api创建世界
 * issacsim 自带的python路径: `~/.local/share/ov/pkg/isaac_sim-2023.1.1/python.sh`
+* 设置环境变量：``source setup_python_env.sh
