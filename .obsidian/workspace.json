@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
-                "mode": "preview",
+                "file": "robotic/notebook/gazebo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md"
+                "file": "robotic/notebook/gazebo.md"
               }
             }
           },
@@ -171,6 +171,9 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
+    "robotic/notebook/moviet2.md",
+    "robotic/notebook/gazebo.md",
+    "robotic/notebook/gazebo",
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim",
@@ -179,7 +182,6 @@
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
-    "robotic/notebook/moviet2.md",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/Orthrus/Orthrus.md",
@@ -204,7 +206,6 @@
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
     "my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note",
-    "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf"
+    "robotic/paper/note"
   ]
 }
