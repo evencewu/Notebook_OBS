@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issac-sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md"
+                "file": "robotic/notebook/issac-sim.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
-    "robotic/notebook/issac-sim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
+    "robotic/notebook/issac-sim.md",
     "robotic/notebook/issacsim",
     "robotic/robotic.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
