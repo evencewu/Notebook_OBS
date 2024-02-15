@@ -26,3 +26,7 @@ host: control.ros.org
 ```shell
 wget http://fishros.com/install -O fishros && . fishros
 ```
+查询gazebo进程
+```shell
+ps -ef |grep gazebo
+```
