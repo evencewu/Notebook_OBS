@@ -23,3 +23,6 @@ url: https://control.ros.org/humble/doc/ros2_control_demos/doc/index.html#ros2-c
 title: "Demos — ROS2_Control: Humble Feb 2024 documentation"
 host: control.ros.org
 ```
+```shell
+wget http://fishros.com/install -O fishros && . fishros
+```

@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/gazebo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -172,9 +172,9 @@
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
     "robotic/notebook/moviet2.md",
+    "robotic/notebook/issac-sim.md",
     "robotic/notebook/gazebo.md",
     "robotic/notebook/gazebo",
-    "robotic/notebook/issac-sim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim",
     "robotic/robotic.md",
