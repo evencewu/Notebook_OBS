@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
-                "mode": "preview",
+                "file": "robotic/notebook/cpp-arm 编译环境.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
+                "file": "robotic/notebook/cpp-arm 编译环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
+                "file": "robotic/notebook/cpp-arm 编译环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/gazebo.md"
+                "file": "robotic/notebook/cpp-arm 编译环境.md"
               }
             }
           },
@@ -171,6 +171,8 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
+    "robotic/notebook/Ethercat.md",
+    "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issac-sim.md",
     "robotic/notebook/gazebo.md",
