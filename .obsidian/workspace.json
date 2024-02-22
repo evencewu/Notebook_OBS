@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym.md"
+                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
+    "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/issacsim.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/moviet2.md",
@@ -199,7 +200,6 @@
     "未命名.canvas",
     "README.md",
     "fpga/FPGA.md",
-    "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook",
     "fpga",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
