@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+                "file": "robotic/notebook/issacgym.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+                "file": "robotic/notebook/issacgym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+                "file": "robotic/notebook/issacgym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md"
+                "file": "robotic/notebook/issacgym.md"
               }
             }
           },
@@ -171,13 +171,14 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
-    "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/issacsim.md",
-    "robotic/notebook/issacgym.md",
     "robotic/notebook/moviet2.md",
-    "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/Ethercat.md",
     "robotic/notebook/gazebo.md",
+    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
+    "robotic/paper/robotic 论文阅读.md",
+    "robotic/notebook/issacgym.md",
+    "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/gazebo",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim",
@@ -189,7 +190,6 @@
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/notebook/img",
     "obsidian/obsidian插件&模板.md",
