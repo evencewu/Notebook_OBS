@@ -20,6 +20,6 @@ favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/5e6b9fe81bf4090604e9b418bf7c94063f2eb06edf755d8f1d4bc1b1875a0138/evencewu/soem_for_ros2
 ```
 
-# 相关笔记
+# 环境配置
 * [[cpp-arm 编译环境]]
-* ROS2]]
+* [[ROS2]]
