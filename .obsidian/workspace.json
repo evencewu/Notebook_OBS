@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7bbb2ba06b245719",
+        "id": "6786d646d99ac7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "243f374fea3c973f",
+            "id": "3d903e662b4beb08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/Ethercat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "robotic/notebook/Ethercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "robotic/notebook/Ethercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "robotic/notebook/Ethercat.md"
+              }
             }
           },
           {
@@ -148,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "243f374fea3c973f",
+  "active": "3d903e662b4beb08",
   "lastOpenFiles": [
-    "robotic/notebook/Ethercat.md",
     "robotic/notebook/cpp-arm 编译环境.md",
+    "robotic/notebook/Ethercat.md",
     "robotic/notebook/gazebo.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/robotic.md",
