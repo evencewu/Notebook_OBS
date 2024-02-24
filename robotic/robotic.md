@@ -7,5 +7,4 @@
 * [[cpp-arm 编译环境]]
 * [[Ethercat]]
 * [[gazebo]]
-* [[issacsim]]
-* 
+* [[ROS2]]

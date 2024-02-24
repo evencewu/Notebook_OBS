@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edd63fbf4615d3c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/Ethercat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/Ethercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/Ethercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/robotic.md"
+                "file": "robotic/notebook/Ethercat.md"
               }
             }
           },
@@ -169,12 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "edd63fbf4615d3c0",
+  "active": "243f374fea3c973f",
   "lastOpenFiles": [
+    "robotic/notebook/gazebo.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "robotic/robotic.md",
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/ROS2.md",
     "robotic/notebook/Ethercat.md",
-    "robotic/notebook/gazebo.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issacsim.md",
@@ -183,8 +172,6 @@
     "robotic/notebook/gazebo",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim",
-    "robotic/robotic.md",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix",
