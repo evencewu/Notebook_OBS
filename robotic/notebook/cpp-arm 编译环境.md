@@ -1,5 +1,6 @@
 # install
-   #### 安装
+* 安装`
+```gcc-arm-none-eabi
 ```cardlink
 url: https://developer.arm.com/downloads/-/gnu-rm
 title: "Downloads | GNU Arm Embedded Toolchain Downloads – Arm Developer"
