@@ -11,12 +11,8 @@
             "id": "243f374fea3c973f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/Ethercat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Ethercat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Ethercat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "robotic/notebook/Ethercat.md"
-              }
+              "state": {}
             }
           },
           {

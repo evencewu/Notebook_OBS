@@ -1,6 +1,16 @@
 # 项目仓库
- #### 项目总仓库
- ##### 主站核心代码仓库
+ ## 项目总仓库
+ 
+```cardlink
+url: https://github.com/evencewu/SimpleEthercat
+title: "GitHub - evencewu/SimpleEthercat: Simple Ethercat demo"
+description: "Simple Ethercat demo. Contribute to evencewu/SimpleEthercat development by creating an account on GitHub."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/f6b34ed59d4876c8eaba8f94afc40f20cca1699bd5ada511560915d33b3d947e/evencewu/SimpleEthercat
+```
+
+ ## 主站核心代码仓库
 ```cardlink
 url: https://github.com/evencewu/soem_for_ros2.git
 title: "GitHub - evencewu/soem_for_ros2"
