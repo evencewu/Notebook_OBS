@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
+                "file": "robotic/notebook/ROS2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
+                "file": "robotic/notebook/ROS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/gazebo.md",
+                "file": "robotic/notebook/ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/gazebo.md"
+                "file": "robotic/notebook/ROS2.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "edd63fbf4615d3c0",
   "lastOpenFiles": [
+    "robotic/notebook/gazebo.md",
+    "robotic/notebook/ROS2.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/issacsim.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/Ethercat.md",
-    "robotic/notebook/gazebo.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/cpp-arm 编译环境.md",

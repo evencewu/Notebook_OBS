@@ -23,20 +23,15 @@ url: https://control.ros.org/humble/doc/ros2_control_demos/doc/index.html#ros2-c
 title: "Demos — ROS2_Control: Humble Feb 2024 documentation"
 host: control.ros.org
 ```
-```bash
-wget http://fishros.com/install -O fishros && . fishros
-```
+
 查询gazebo进程
 ```bash
 ps -ef |grep gazebo
 ```
 kill进程
 ```bash
-kill -9 
+kill -9 ${ID}
 ```
-
-
-
 
 ```cardlink
 url: https://blog.csdn.net/weixin_44759237/article/details/131976029
