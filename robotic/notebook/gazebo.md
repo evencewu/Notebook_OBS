@@ -30,3 +30,17 @@ wget http://fishros.com/install -O fishros && . fishros
 ```bash
 ps -ef |grep gazebo
 ```
+kill进程
+```bash
+kill -9 
+```
+
+
+
+
+```cardlink
+url: https://blog.csdn.net/weixin_44759237/article/details/131976029
+title: "【ROS2】通过launch使用gazebo11打开xacro模型（含机械臂）_xacro.parse()-CSDN博客"
+description: "文章浏览阅读698次。ros2刚使用不久，如文章内容有误，欢迎在评论内讨论与指正。环境配置：ubuntu版本：22.04ros版本：ros2 humble。_xacro.parse()"
+host: blog.csdn.net
+```
