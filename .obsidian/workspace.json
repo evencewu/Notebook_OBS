@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym/未命名.md",
-                "mode": "source",
+                "file": "robotic/notebook/issacgym.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym/未命名.md",
+                "file": "robotic/notebook/issacgym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym/未命名.md",
+                "file": "robotic/notebook/issacgym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym/未命名.md"
+                "file": "robotic/notebook/issacgym.md"
               }
             }
           },
@@ -158,17 +158,17 @@
   },
   "active": "3d903e662b4beb08",
   "lastOpenFiles": [
-    "robotic/notebook/issacgym.md",
-    "robotic/notebook/issacgym/未命名.md",
-    "robotic/notebook/issacgym",
     "robotic/notebook/gazebo.md",
+    "robotic/notebook/issacgym.md",
+    "robotic/notebook/issacsim.md",
+    "robotic/notebook/moviet2.md",
     "robotic/notebook/ROS2.md",
+    "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+    "robotic/notebook/issacgym",
     "robotic/notebook/Ethercat.md",
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/robotic.md",
-    "robotic/notebook/moviet2.md",
-    "robotic/notebook/issacsim.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/gazebo",
