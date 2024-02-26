@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
-                "mode": "preview",
+                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym.md"
+                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "3d903e662b4beb08",
   "lastOpenFiles": [
-    "robotic/notebook/gazebo.md",
     "robotic/notebook/issacgym.md",
+    "robotic/notebook/gazebo.md",
     "robotic/notebook/issacsim.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/ROS2.md",
