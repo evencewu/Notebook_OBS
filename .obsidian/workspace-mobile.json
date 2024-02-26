@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ed8f2977a3329da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md",
+            "file": "conflict-files-obsidian-git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md"
+            "file": "conflict-files-obsidian-git.md"
           }
         }
       },
@@ -140,12 +153,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "149a49e8c0abbe66",
+  "active": "0ed8f2977a3329da",
   "lastOpenFiles": [
+    "robotic/notebook/issacsim/issacsim.md",
+    "conflict-files-obsidian-git.md",
     "robotic/notebook/stm32",
     "未命名",
     "robotic/notebook/issacsim/issacsim例程.md",
-    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/moviet2.md",
