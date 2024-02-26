@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "544d9bb11e5dfb0e",
+        "id": "6986c61724e9b804",
         "type": "tabs",
         "children": [
           {
-            "id": "149a49e8c0abbe66",
+            "id": "06ae9f5033ec528b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -123,28 +123,49 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "149a49e8c0abbe66",
+  "active": "06ae9f5033ec528b",
   "lastOpenFiles": [
-    "robotic/paper/robotic 论文阅读.md",
-    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
-    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/robotic.md",
-    "robotic/note/moviet2.md",
-    "robotic/my_project/project.md",
-    "fpga/FPGA.md",
+    "robotic/notebook/moviet2.md",
+    "/robotic/notebook/moviet2.md",
+    "robotic/notebook/issacsim.md",
+    "robotic/notebook/issacsim/issacsim例程.md",
+    "robotic/notebook/issacsim/IssacSim Core API.md",
+    "robotic/notebook/issacgym.md",
+    "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+    "robotic/notebook/issacgym/appendix/Pasted image 20240226152138.png",
+    "robotic/notebook/issacgym/RL 数学基础.md",
+    "robotic/notebook/gazebo.md",
+    "robotic/notebook/cpp-arm 编译环境.md",
+    "robotic/notebook/appendix/Pasted image 20240207230152.png",
+    "robotic/notebook/appendix/Pasted image 20240108193503.png",
+    "robotic/notebook/ROS2.md",
+    "robotic/notebook/Ethercat.md",
+    "obsidian/obsidian插件&模板.md",
     "/robotic/robotic.md",
-    "/robotic/note/moviet2.md",
-    "/robotic/my_project/project.md",
-    "/robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "/robotic/my_project/Orthrus/Orthrus.md",
-    "/fpga/FPGA.md",
-    "robotic/note",
-    "fpga",
-    "/robotic/note",
-    "/fpga",
-    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
-    "robotic/my_project/orthrus.md"
+    "/robotic/notebook/issacsim.md",
+    "/robotic/notebook/issacsim/issacsim例程.md",
+    "/robotic/notebook/issacsim/IssacSim Core API.md",
+    "/robotic/notebook/issacgym.md",
+    "/robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+    "/robotic/notebook/issacgym/appendix/Pasted image 20240226152138.png",
+    "/robotic/notebook/issacgym/RL 数学基础.md",
+    "/robotic/notebook/gazebo.md",
+    "/robotic/notebook/cpp-arm 编译环境.md",
+    "/robotic/notebook/appendix/Pasted image 20240207230152.png",
+    "/robotic/notebook/appendix/Pasted image 20240108193503.png",
+    "/robotic/notebook/ROS2.md",
+    "/robotic/notebook/Ethercat.md",
+    "/obsidian/obsidian插件&模板.md",
+    "robotic/notebook/issacgym/appendix",
+    "robotic/notebook/issacsim",
+    "robotic/notebook/issacgym",
+    "robotic/notebook/appendix",
+    "robotic/notebook",
+    "obsidian",
+    "/robotic/notebook/issacsim",
+    "/robotic/notebook/issacgym/appendix",
+    "/robotic/notebook/issacgym",
+    "/robotic/notebook/appendix",
+    "robotic/paper/robotic 论文阅读.md"
   ]
 }
