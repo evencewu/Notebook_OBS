@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+                "file": "robotic/notebook/issacgym/RL 数学基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+                "file": "robotic/notebook/issacgym/RL 数学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
+                "file": "robotic/notebook/issacgym/RL 数学基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md"
+                "file": "robotic/notebook/issacgym/RL 数学基础.md"
               }
             }
           },
@@ -158,14 +158,17 @@
   },
   "active": "3d903e662b4beb08",
   "lastOpenFiles": [
+    "robotic/notebook/issacgym/appendix/Pasted image 20240226152138.png",
+    "robotic/notebook/issacgym/appendix",
     "robotic/notebook/issacgym.md",
+    "robotic/notebook/issacgym/RL 数学基础.md",
     "robotic/notebook/gazebo.md",
+    "robotic/notebook/Ethercat.md",
+    "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacsim.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/ROS2.md",
-    "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacgym",
-    "robotic/notebook/Ethercat.md",
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/robotic.md",
@@ -194,10 +197,7 @@
     "fpga",
     "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
     "robotic/my_project/SimpleEthercat",
-    "robotic/my_project/Orthrus",
     "robotic/my_project 1/Orthrus/Orthrus.md",
-    "robotic/my_project/orthrus.md",
-    "my_project/SimpleEthercat/SimpleEthercat.md",
-    "my_project/Orthrus/Orthrus.md"
+    "robotic/my_project/orthrus.md"
   ]
 }
