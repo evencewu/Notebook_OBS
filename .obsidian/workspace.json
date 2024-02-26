@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym/RL 数学基础.md",
+                "file": "robotic/notebook/issacgym.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym/RL 数学基础.md",
+                "file": "robotic/notebook/issacgym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym/RL 数学基础.md",
+                "file": "robotic/notebook/issacgym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym/RL 数学基础.md"
+                "file": "robotic/notebook/issacgym.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   },
   "active": "3d903e662b4beb08",
   "lastOpenFiles": [
+    "robotic/notebook/issacsim.md",
+    "robotic/notebook/issacgym/RL 数学基础.md",
     "robotic/notebook/issacgym/appendix/Pasted image 20240226152138.png",
     "robotic/notebook/issacgym/appendix",
     "robotic/notebook/issacgym.md",
-    "robotic/notebook/issacgym/RL 数学基础.md",
     "robotic/notebook/gazebo.md",
     "robotic/notebook/Ethercat.md",
     "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
-    "robotic/notebook/issacsim.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/ROS2.md",
     "robotic/notebook/issacgym",
