@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/issacgym/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/issacgym/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/issacgym/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym.md"
+                "file": "robotic/notebook/issacgym/未命名.md"
               }
             }
           },
@@ -158,13 +158,15 @@
   },
   "active": "3d903e662b4beb08",
   "lastOpenFiles": [
+    "robotic/notebook/issacgym.md",
+    "robotic/notebook/issacgym/未命名.md",
+    "robotic/notebook/issacgym",
     "robotic/notebook/gazebo.md",
     "robotic/notebook/ROS2.md",
     "robotic/notebook/Ethercat.md",
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/robotic.md",
-    "robotic/notebook/issacgym.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issacsim.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
@@ -196,7 +198,6 @@
     "robotic/my_project 1/Orthrus/Orthrus.md",
     "robotic/my_project/orthrus.md",
     "my_project/SimpleEthercat/SimpleEthercat.md",
-    "my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note"
+    "my_project/Orthrus/Orthrus.md"
   ]
 }
