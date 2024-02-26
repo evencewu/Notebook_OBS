@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Ethercat.md",
+                "file": "robotic/notebook/gazebo.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "22a1986fc42bcebc",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Ethercat.md",
+                "file": "robotic/notebook/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Ethercat.md",
+                "file": "robotic/notebook/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Ethercat.md"
+                "file": "robotic/notebook/gazebo.md"
               }
             }
           },
@@ -167,14 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22a1986fc42bcebc",
+  "active": "3d903e662b4beb08",
   "lastOpenFiles": [
-    "robotic/notebook/cpp-arm 编译环境.md",
+    "robotic/notebook/ROS2.md",
     "robotic/notebook/Ethercat.md",
+    "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/gazebo.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/robotic.md",
-    "robotic/notebook/ROS2.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/moviet2.md",
     "robotic/notebook/issacsim.md",
