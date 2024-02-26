@@ -41,4 +41,3 @@ url: https://docs.omniverse.nvidia.com/isaacsim/latest/features/robots_simulatio
 title: "Quadruped Example — Omniverse IsaacSim latest documentation"
 host: docs.omniverse.nvidia.com
 ```
-## example
