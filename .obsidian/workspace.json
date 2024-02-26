@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issacsim.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Document",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issacsim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md",
+                "file": "robotic/notebook/issacsim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacsim/IssacSim Core API.md"
+                "file": "robotic/notebook/issacsim.md"
               }
             }
           },
@@ -157,10 +157,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1019b2cebfb5bfa4",
+  "active": "3d903e662b4beb08",
   "lastOpenFiles": [
-    "robotic/notebook/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
+    "robotic/notebook/issacsim.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/gazebo.md",
     "robotic/notebook/Ethercat.md",

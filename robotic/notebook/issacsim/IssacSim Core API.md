@@ -1,10 +1,9 @@
-# 
+# Document
 ```cardlink
 url: https://docs.omniverse.nvidia.com/py/isaacsim/source/extensions/omni.isaac.core/docs/index.html
 title: "Core [omni.isaac.core] — isaac_sim 2023.1.1-rc.8 documentation"
 host: docs.omniverse.nvidia.com
 ```
-# Document
 ```cardlink
 url: https://docs.omniverse.nvidia.com/isaacsim/latest/core_api_tutorials/index.html
 title: "4. Core API — Omniverse IsaacSim latest documentation"
