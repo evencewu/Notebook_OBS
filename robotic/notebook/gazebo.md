@@ -39,3 +39,10 @@ title: "【ROS2】通过launch使用gazebo11打开xacro模型（含机械臂）_
 description: "文章浏览阅读698次。ros2刚使用不久，如文章内容有误，欢迎在评论内讨论与指正。环境配置：ubuntu版本：22.04ros版本：ros2 humble。_xacro.parse()"
 host: blog.csdn.net
 ```
+```cardlink
+url: https://book.guyuehome.com/ROS2/3.%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/3.4_Gazebo/
+title: "【ROS2】通过launch使用gazebo11打开xacro模型（含机械臂）_xacro.parse()-CSDN博客"
+description: "文章浏览阅读698次。ros2刚使用不久，如文章内容有误，欢迎在评论内讨论与指正。环境配置：ubuntu版本：22.04ros版本：ros2 humble。_xacro.parse()"
+host: blog.csdn.net
+```
+[Fetching Data#rdpu]()
