@@ -38,3 +38,13 @@ url: https://docs.omniverse.nvidia.com/isaacsim/latest/features/robots_simulatio
 title: "Quadruped Example — Omniverse IsaacSim latest documentation"
 host: docs.omniverse.nvidia.com
 ```
+
+CoreAPI
+* Document
+```cardlink
+url: https://docs.omniverse.nvidia.com/py/isaacsim/source/extensions/omni.isaac.core/docs/index.html
+title: "Core [omni.isaac.core] — isaac_sim 2023.1.1-rc.8 documentation"
+host: docs.omniverse.nvidia.com
+```
+
+## example
