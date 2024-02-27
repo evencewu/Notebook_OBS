@@ -1,11 +1,5 @@
 * [[robotic 论文阅读]]
 
 * [[Project]]
-NoteBook]
-- [[moviet2]]
-- [[issacsim]]
-* [[issacsim]]
-* [[cpp-arm 编译环境]]
-* [[Ethercat]]
-* [[gazebo]]
-* [[ROS2]]
+* [[NoteBook]]
+

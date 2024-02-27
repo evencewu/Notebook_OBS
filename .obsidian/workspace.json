@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/NoteBook.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/robotic.md",
+                "file": "robotic/notebook/NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/robotic.md"
+                "file": "robotic/notebook/NoteBook.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "ad8f2036c3a17dfd",
   "lastOpenFiles": [
-    "robotic/notebook/NoteBook.md",
     "robotic/robotic.md",
+    "robotic/my_project/Project.md",
+    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/moviet2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacsim.md",
@@ -172,7 +174,6 @@
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacgym/RL 数学基础.md",
-    "robotic/notebook/moviet2.md",
     "robotic/notebook/Ethercat.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/issacsim/未命名",
@@ -198,7 +199,6 @@
     "obsidian/obsidian插件&模板.md",
     "obsidian",
     "conflict-files-obsidian-git.md",
-    "robotic/my_project/Project.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md"
