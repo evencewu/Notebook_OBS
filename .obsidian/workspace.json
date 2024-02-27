@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a1f5f502fcc080",
+        "id": "ec6935b83e0d0363",
         "type": "tabs",
         "children": [
           {
-            "id": "ad8f2036c3a17dfd",
+            "id": "5b08dd7a0a0587e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,8 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad8f2036c3a17dfd",
+  "active": "5b08dd7a0a0587e0",
   "lastOpenFiles": [
+    "appendix/Pasted.md",
+    "robotic/notebook/issacsim/issacsim.md",
+    "appendix",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
@@ -169,7 +172,6 @@
     "robotic/notebook/Ethercat",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/ROS2/moviet2",
-    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/ROS2/未命名",
@@ -190,7 +192,6 @@
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/robotic 论文阅读.md",
-    "robotic/notebook/gazebo",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",

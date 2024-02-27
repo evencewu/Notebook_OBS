@@ -16,8 +16,7 @@ host: docs.omniverse.nvidia.com
 # QA
 
 ## 关于issacsim的扭矩控制
-![图片](appendix/20240108193503.png "图片")
- ![[]]
+ ![[Pasted image 20240108193503.png]]
 ## 2023.1.1版本urdf导入后usd无法使用ros插件的问题
 ![[Pasted image 20240207230152.png]]
 	Q: 如何解决
