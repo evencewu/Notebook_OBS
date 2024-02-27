@@ -21,5 +21,5 @@ image: https://opengraph.githubassets.com/5e6b9fe81bf4090604e9b418bf7c94063f2eb0
 ```
 
 # 环境配置
-* [[cpp-arm 编译环境]]
+* [[cpp-arm 编译环境的安装]]
 * [[ROS2]]

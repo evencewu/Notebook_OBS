@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#嵌入式",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md"
               }
             }
           },
@@ -156,12 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad8f2036c3a17dfd",
+  "active": "1019b2cebfb5bfa4",
   "lastOpenFiles": [
+    "robotic/notebook/NoteBook.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/Ethercat",
     "robotic/notebook/Ethercat/Ethercat.md",
-    "robotic/notebook/NoteBook.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/ROS2/moviet2",
     "robotic/notebook/issacsim/issacsim.md",
@@ -172,7 +173,7 @@
     "robotic/notebook/ROS2",
     "robotic/robotic.md",
     "robotic/my_project/Project.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/stm32",
