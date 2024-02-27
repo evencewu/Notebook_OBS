@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
+                "file": "robotic/robotic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
+                "file": "robotic/robotic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
+                "file": "robotic/robotic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md"
+                "file": "robotic/robotic.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "ad8f2036c3a17dfd",
   "lastOpenFiles": [
+    "robotic/notebook/NoteBook.md",
     "robotic/robotic.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacgym.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境.md",
     "robotic/notebook/stm32",
     "robotic/notebook/issacsim/appendix/Pasted image 20240207230152.png",
     "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
@@ -200,7 +201,6 @@
     "robotic/my_project/Project.md",
     "未命名 1.canvas",
     "未命名.canvas",
-    "README.md",
-    "fpga/FPGA.md"
+    "README.md"
   ]
 }
