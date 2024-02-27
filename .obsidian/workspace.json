@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/moviet2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/moviet2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/moviet2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "robotic/notebook/moviet2.md"
               }
             }
           },
@@ -156,12 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad8f2036c3a17dfd",
+  "active": "f0543157223ad58c",
   "lastOpenFiles": [
+    "robotic/notebook/ROS2/未命名",
+    "robotic/notebook/Ethercat.md",
+    "robotic/notebook/moviet2.md",
+    "robotic/notebook/gazebo.md",
+    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/ROS2",
     "robotic/robotic.md",
     "robotic/my_project/Project.md",
-    "robotic/notebook/NoteBook.md",
-    "robotic/notebook/moviet2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacsim.md",
@@ -174,14 +179,11 @@
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacgym/RL 数学基础.md",
-    "robotic/notebook/Ethercat.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/issacsim/未命名",
     "robotic/notebook/issacsim/IssacSim Core API.md",
-    "robotic/notebook/gazebo.md",
     "robotic/notebook/issacgym/appendix/Pasted image 20240226152138.png",
     "robotic/notebook/issacgym/appendix",
-    "robotic/notebook/ROS2.md",
     "robotic/notebook/issacgym",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
@@ -197,10 +199,8 @@
     "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
     "robotic/notebook/img",
     "obsidian/obsidian插件&模板.md",
-    "obsidian",
     "conflict-files-obsidian-git.md",
     "未命名 1.canvas",
-    "未命名.canvas",
-    "README.md"
+    "未命名.canvas"
   ]
 }
