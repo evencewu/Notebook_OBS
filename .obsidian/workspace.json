@@ -157,8 +157,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1019b2cebfb5bfa4",
+  "active": "ad8f2036c3a17dfd",
   "lastOpenFiles": [
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/Ethercat",
@@ -173,7 +174,6 @@
     "robotic/notebook/ROS2",
     "robotic/robotic.md",
     "robotic/my_project/Project.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/stm32",
