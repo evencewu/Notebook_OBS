@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacgym.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacgym.md"
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境.md"
               }
             }
           },
@@ -158,8 +158,16 @@
   },
   "active": "ad8f2036c3a17dfd",
   "lastOpenFiles": [
-    "robotic/notebook/issacsim.md",
+    "robotic/robotic.md",
+    "robotic/notebook/issacgym/issacgym.md",
+    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacgym.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境.md",
+    "robotic/notebook/stm32",
+    "robotic/notebook/issacsim/appendix/Pasted image 20240207230152.png",
+    "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
+    "robotic/notebook/issacsim/appendix",
+    "robotic/notebook/issacsim.md",
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacgym/RL 数学基础.md",
@@ -174,7 +182,6 @@
     "robotic/notebook/ROS2.md",
     "robotic/notebook/issacgym",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "robotic/robotic.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/gazebo",
@@ -194,11 +201,6 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "README.md",
-    "fpga/FPGA.md",
-    "robotic/notebook",
-    "fpga",
-    "robotic/my_project 1/SimpleEthercat/SimpleEthercat.md",
-    "robotic/my_project 1/Orthrus/Orthrus.md",
-    "robotic/my_project/orthrus.md"
+    "fpga/FPGA.md"
   ]
 }
