@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
-                "mode": "source",
+                "file": "robotic/notebook/ROS2/ROS2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/ROS2/ROS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/ROS2/ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "robotic/notebook/ROS2/ROS2.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/NoteBook.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
