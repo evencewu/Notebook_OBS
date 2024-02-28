@@ -17,7 +17,25 @@
                 "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "912f2a607e72c679"
+          }
+        ]
+      },
+      {
+        "id": "3730ea9db9c5bcf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d0b66fd178b54e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "robotic/notebook/ROS2/ROS2.md"
+              }
+            },
+            "group": "912f2a607e72c679"
           }
         ]
       }
@@ -154,7 +172,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c6d0d83c9569ea5",
+  "active": "88d0b66fd178b54e",
   "lastOpenFiles": [
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",

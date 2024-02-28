@@ -1,13 +1,11 @@
 ---
-    alias: "document"
-    last-reviewed: 2021-08-17
-    thoughts:
-      rating: 8
-      reviewable: false
+alias: "document"
+last-reviewed: 2021-08-17
+thoughts:
+rating: 8
+reviewable: false
 ---
 
-
-```
 > [!info] 文档信息
 > > tag:: #ros2 #linux
 > > parants:: [[NoteBook]]
