@@ -12,4 +12,5 @@ from "robotic/notebook"
 ```dataview
 list
 from #嵌入式 
+name "test"
 ```
