@@ -1,14 +1,6 @@
----
-
----
-# 文档信息
-## tag:: #ros2 #linux 
-## parants:: [[NoteBook]]
-
-> [!note] 这是一个callout标题 
-> > 这里是callout里的内容 
-> > > [[#20 Callout blocks|callout]]内部支持双链 
-> > > > - 同样支持==MD语法==
+> [!info] 文档信息
+> > tag:: #ros2 #linux
+> > parants:: [[NoteBook]]
 
 # Install
 
