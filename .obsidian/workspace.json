@@ -11,9 +11,11 @@
             "id": "34b523ca8298f55c",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "robotic/notebook/test.md"
+                "file": "robotic/notebook/NoteBook.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/test.md",
+                "file": "robotic/notebook/NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/test.md",
+                "file": "robotic/notebook/NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/test.md"
+                "file": "robotic/notebook/NoteBook.md"
               }
             }
           },
@@ -155,8 +157,9 @@
   },
   "active": "34b523ca8298f55c",
   "lastOpenFiles": [
-    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/1.md",
     "robotic/notebook/test.md",
+    "robotic/notebook/NoteBook.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/robotic.md",
     "pexels-pixabay-256262.jpg",
@@ -198,7 +201,6 @@
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
-    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/my_project/Orthrus/Orthrus.md"
+    "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md"
   ]
 }
