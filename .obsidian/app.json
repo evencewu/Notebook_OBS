@@ -2,5 +2,8 @@
   "promptDelete": false,
   "attachmentFolderPath": "./appendix",
   "strictLineBreaks": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": true,
+  "foldHeading": true,
+  "propertiesInDocument": "source"
 }
