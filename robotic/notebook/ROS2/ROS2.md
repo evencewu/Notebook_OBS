@@ -12,6 +12,7 @@ host: docs.ros.org
 ```
 
 Blog
+#cmake
 ```cardlink
 url: https://blog.csdn.net/shoufei403/article/details/125831552
 title: "详细分析一个ROS2 CMakeLists.txt文件-CSDN博客"
@@ -23,5 +24,12 @@ host: blog.csdn.net
 url: https://www.ncnynl.com/category/ros2-cplusplus/
 title: "ROS2与C++入门教程 - 创客智造/爱折腾智能机器人"
 description: "通过ROS2与C++入门教程学习，了解ROS2更多编程的细节，接口，以及如何调用方式"
+host: www.ncnynl.com
+```
+
+```cardlink
+url: https://www.ncnynl.com/archives/202110/4784.html
+title: "ROS2与Gazebo11入门教程-相机畸变（Camera Distortion） - 创客智造/爱折腾智能机器人"
+description: "说明：介绍相机畸变（Camera Distortion）简介相机镜头通常会表现出一定程度的光学畸变，从而导致图像变形。一个示例就是鱼眼镜头相机，该相机通常在机器人应用程序中使用，来为对象识别或导..."
 host: www.ncnynl.com
 ```
