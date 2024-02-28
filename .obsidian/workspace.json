@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/ROS2/ROS2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
