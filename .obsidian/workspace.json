@@ -136,17 +136,9 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "381e27d6238e20ce",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b08dd7a0a0587e0",
+  "active": "2aac56b6f7ce2006",
   "lastOpenFiles": [
-    "未命名.canvas",
     "robotic/robotic.md",
+    "未命名.canvas",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim例程.md",
