@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,10 +159,10 @@
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/Ethercat/Ethercat.md",
+    "robotic/notebook/ROS2/ROS2.md",
     "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
     "robotic/robotic.md",
-    "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/1.md",
     "robotic/notebook/test.md",
     "robotic/paper/robotic 论文阅读.md",
