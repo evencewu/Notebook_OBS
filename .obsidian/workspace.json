@@ -157,6 +157,7 @@
   "active": "448d70901bb29e94",
   "lastOpenFiles": [
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/NoteBook.md",
     "robotic/robotic.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
@@ -167,7 +168,6 @@
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/gazebo/gazebo.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
     "appendix/Pasted.md",
     "appendix",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
