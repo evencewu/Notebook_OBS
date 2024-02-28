@@ -1,5 +1,6 @@
 ---
 banner: "![[pexels-pixabay-256262.jpg]]"
+banner_y:
 ---
 # Index
 - [[moviet2]]
