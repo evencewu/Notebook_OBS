@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/NoteBook.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -157,9 +157,10 @@
   },
   "active": "7ba459500b58d5bb",
   "lastOpenFiles": [
+    "notebook.md",
+    "robotic/notebook/NoteBook.md",
     "未命名 1.canvas",
     "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/NoteBook.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/robotic.md",
     "robotic/notebook/Ethercat/Ethercat.md",
@@ -199,7 +200,6 @@
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
     "robotic/my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md",
-    "obsidian/obsidian插件&模板.md"
+    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md"
   ]
 }
