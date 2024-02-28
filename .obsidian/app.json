@@ -5,5 +5,7 @@
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": true,
   "foldHeading": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "hidden",
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

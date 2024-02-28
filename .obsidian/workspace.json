@@ -15,7 +15,7 @@
               "state": {
                 "file": "robotic/notebook/NoteBook.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
