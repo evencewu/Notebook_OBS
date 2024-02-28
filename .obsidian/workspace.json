@@ -11,14 +11,11 @@
             "id": "5b08dd7a0a0587e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -3,
-                  "y": -10,
-                  "zoom": 0
-                }
+                "file": "robotic/robotic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "robotic/robotic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "robotic/robotic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "robotic/robotic.md"
               }
             }
           },
@@ -167,8 +164,9 @@
   },
   "active": "5b08dd7a0a0587e0",
   "lastOpenFiles": [
-    "robotic/notebook/issacsim/issacsim.md",
     "未命名.canvas",
+    "robotic/robotic.md",
+    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
@@ -186,7 +184,6 @@
     "robotic/notebook/ROS2/moviet2",
     "robotic/notebook/ROS2/未命名",
     "robotic/notebook/ROS2",
-    "robotic/robotic.md",
     "robotic/my_project/Project.md",
     "robotic/notebook/issacgym.md",
     "robotic/notebook/stm32",
