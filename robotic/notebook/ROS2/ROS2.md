@@ -1,4 +1,14 @@
 
+---
+aliases:
+- YAML front matter
+tags:
+- Obsidian
+time: 2023-01-12 09:51
+progress: 进行中
+简介: Obsidian 中 YAML front matter 的用法。
+---
+```
 > [!info] 文档信息
 > > tag:: #ros2 #linux
 > > parants:: [[NoteBook]]
