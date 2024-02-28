@@ -3,6 +3,7 @@ banner: "![[pexels-pixabay-256262.jpg]]"
 tags:
   - 嵌入式
   - C语言
+banner_y: 0.05622
 ---
 # install
 - 安装`gcc-arm-none-eabi 
