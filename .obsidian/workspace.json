@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/NoteBook.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
