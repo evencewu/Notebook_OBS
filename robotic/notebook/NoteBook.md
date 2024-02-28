@@ -8,3 +8,8 @@ banner_y: 0.5
 list
 from "robotic/notebook"
 ```
+
+```dataview
+list
+from "robotic/notebook"
+```
