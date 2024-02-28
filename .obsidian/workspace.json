@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "266f049001a2177e",
+        "id": "da3b40effd297264",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba459500b58d5bb",
+            "id": "34b523ca8298f55c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/NoteBook.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "pexels-pixabay-256262.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "pexels-pixabay-256262.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "pexels-pixabay-256262.jpg"
               }
             }
           },
@@ -155,18 +151,19 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "7ba459500b58d5bb",
+  "active": "f0543157223ad58c",
   "lastOpenFiles": [
-    "notebook.md",
-    "robotic/notebook/NoteBook.md",
+    "未命名.canvas",
     "未命名 1.canvas",
+    "pexels-pixabay-256262.jpg",
+    "obsidian/obsidian插件&模板.md",
+    "robotic/notebook/NoteBook.md",
+    "notebook.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/robotic.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
-    "pexels-pixabay-256262.jpg",
-    "未命名.canvas",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
@@ -199,7 +196,6 @@
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
     "robotic/paper/note/Controlling Diverse Quadruped Motions Without Pre-Planned Contact Modes or Trajectories.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
-    "robotic/paper/note/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.md"
+    "robotic/my_project/Orthrus/Orthrus.md"
   ]
 }
