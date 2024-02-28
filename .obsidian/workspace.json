@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f99169f526a2d918",
+        "id": "17a1d7e5994487e6",
         "type": "tabs",
         "children": [
           {
-            "id": "1255f78daabb14c4",
+            "id": "448d70901bb29e94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1255f78daabb14c4",
+  "active": "448d70901bb29e94",
   "lastOpenFiles": [
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/NoteBook.md",
