@@ -13,3 +13,11 @@ description: "如何在 Obsidian 中建立类似 Notion Database 的数据库？
 host: zhuanlan.zhihu.com
 image: https://pic1.zhimg.com/v2-a2aad7e75c290be6d4281af5b80ec111_720w.jpg?source=172ae18b
 ```
+
+```cardlink
+url: https://publish.obsidian.md/csj-obsidian/0+-+Obsidian/Markdown/Markdown超级教程+Obsidian版
+title: "Markdown超级教程 Obsidian版 - 秃秃小屋 - Obsidian Publish"
+description: "Markdown超级教程 Obsidian版 - 秃秃小屋 - Powered by Obsidian Publish."
+host: publish.obsidian.md
+favicon: https://publish.obsidian.md/favicon.ico?dca3d5a16b4baca4151f
+```
