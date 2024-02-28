@@ -3,7 +3,7 @@
 ---
 # 文档信息
 ## tag:: #ros2 #linux 
-## link:: 
+## parants:: [[NoteBook]]
 
 > [!note] 这是一个callout标题 
 > > 这里是callout里的内容 
