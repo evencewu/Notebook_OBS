@@ -1,6 +1,6 @@
 {
   "accentColor": "#ef900b",
-  "translucency": false,
+  "translucency": true,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "苹方-简",
   "textFontFamily": "苹方-简",
