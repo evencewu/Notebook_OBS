@@ -11,11 +11,9 @@
             "id": "34b523ca8298f55c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
-                "mode": "preview",
-                "source": false
+                "file": "robotic/notebook/test.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/notebook/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "robotic/notebook/test.md"
               }
             }
           },
@@ -157,13 +155,14 @@
   },
   "active": "34b523ca8298f55c",
   "lastOpenFiles": [
+    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/test.md",
     "robotic/paper/robotic 论文阅读.md",
     "robotic/robotic.md",
     "pexels-pixabay-256262.jpg",
     "未命名.canvas",
     "未命名 1.canvas",
     "obsidian/obsidian插件&模板.md",
-    "robotic/notebook/NoteBook.md",
     "notebook.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
