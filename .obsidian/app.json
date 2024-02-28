@@ -6,6 +6,6 @@
   "autoPairMarkdown": true,
   "foldHeading": true,
   "propertiesInDocument": "hidden",
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "preview"
 }
