@@ -5,7 +5,7 @@ banner_icon: 🤖
 
 # NoteBook
 ```dataview
-list
+list tag
 from "robotic/notebook"
 ```
 
