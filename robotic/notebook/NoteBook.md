@@ -1,6 +1,6 @@
 ---
 banner: "![[pexels-pixabay-256262.jpg]]"
-banner_y:
+banner_icon: 🤖
 ---
 # Index
 - [[moviet2]]
