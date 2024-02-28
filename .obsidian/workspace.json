@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2aac56b6f7ce2006",
+  "active": "5b08dd7a0a0587e0",
   "lastOpenFiles": [
     "robotic/robotic.md",
     "未命名.canvas",
