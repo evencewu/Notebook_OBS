@@ -136,14 +136,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "381e27d6238e20ce",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +163,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b08dd7a0a0587e0",
+  "active": "381e27d6238e20ce",
   "lastOpenFiles": [
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
