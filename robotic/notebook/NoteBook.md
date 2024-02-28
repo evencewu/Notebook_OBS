@@ -1,6 +1,5 @@
 ---
 banner: "![[pexels-pixabay-256262.jpg]]"
-banner_lock: true
 ---
 # Index
 - [[moviet2]]
