@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/robotic.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/robotic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/NoteBook.md",
+                "file": "robotic/robotic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/NoteBook.md"
+                "file": "robotic/robotic.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "448d70901bb29e94",
   "lastOpenFiles": [
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/NoteBook.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "pexels-pixabay-256262.jpg",
     "未命名.canvas",
