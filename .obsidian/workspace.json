@@ -6,6 +6,7 @@
       {
         "id": "8dc0f3a50eeb997c",
         "type": "tabs",
+        "dimension": 79.23875432525952,
         "children": [
           {
             "id": "6c6d0d83c9569ea5",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/ROS2/ROS2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -25,6 +26,7 @@
       {
         "id": "3730ea9db9c5bcf2",
         "type": "tabs",
+        "dimension": 20.761245674740483,
         "children": [
           {
             "id": "88d0b66fd178b54e",
@@ -172,7 +174,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88d0b66fd178b54e",
+  "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
