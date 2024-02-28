@@ -5,6 +5,6 @@ banner_y: 0.5
 ---
 # NoteBook
 ```dataview
-TABLE
+list
 from "robotic/notebook"
 ```
