@@ -11,8 +11,12 @@
             "id": "34b523ca8298f55c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/NoteBook.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pexels-pixabay-256262.jpg",
+                "file": "robotic/notebook/NoteBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pexels-pixabay-256262.jpg",
+                "file": "robotic/notebook/NoteBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pexels-pixabay-256262.jpg"
+                "file": "robotic/notebook/NoteBook.md"
               }
             }
           },
@@ -151,17 +155,18 @@
       "dbfolder:创建一个新数据库表": false
     }
   },
-  "active": "f0543157223ad58c",
+  "active": "34b523ca8298f55c",
   "lastOpenFiles": [
+    "robotic/paper/robotic 论文阅读.md",
+    "robotic/robotic.md",
+    "pexels-pixabay-256262.jpg",
     "未命名.canvas",
     "未命名 1.canvas",
-    "pexels-pixabay-256262.jpg",
     "obsidian/obsidian插件&模板.md",
     "robotic/notebook/NoteBook.md",
     "notebook.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
-    "robotic/robotic.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim.md",
@@ -191,7 +196,6 @@
     "robotic/notebook/issacsim/issacgym",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
-    "robotic/paper/robotic 论文阅读.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png",
