@@ -2,10 +2,10 @@
 banner: "![[pexels-pixabay-256262.jpg]]"
 tags:
   - 嵌入式
+  - C语言
 ---
- 
 # install
-* 安装`` gcc-arm-none-eabi 
+- 安装`gcc-arm-none-eabi 
 ```cardlink
 url: https://developer.arm.com/downloads/-/gnu-rm
 title: "Downloads | GNU Arm Embedded Toolchain Downloads – Arm Developer"
