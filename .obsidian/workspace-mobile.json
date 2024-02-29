@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
-                "mode": "preview",
+                "file": "robotic/notebook/termux/termux.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md",
+            "file": "robotic/notebook/termux/termux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md",
+            "file": "robotic/notebook/termux/termux.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "robotic/notebook/issacsim/issacsim.md"
+            "file": "robotic/notebook/termux/termux.md"
           }
         }
       },
@@ -141,8 +141,10 @@
   },
   "active": "149a49e8c0abbe66",
   "lastOpenFiles": [
-    "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/issacsim/issacsim.md",
+    "robotic/notebook/termux/termux.md",
+    "robotic/notebook/termux",
+    "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
@@ -175,12 +177,10 @@
     "appendix",
     "/robotic/notebook/issacsim/issacgym/appendix",
     "/robotic/notebook/issacsim/issacgym",
-    "/robotic/notebook/gazebo",
     "未命名.md",
     "conflict-files-obsidian-git.md",
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
-    "robotic/paper/robotic 论文阅读.md",
-    "robotic/notebook/moviet2.md"
+    "robotic/paper/robotic 论文阅读.md"
   ]
 }
