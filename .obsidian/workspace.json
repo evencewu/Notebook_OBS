@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/ROS2/ROS2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -26,7 +26,7 @@
       {
         "id": "3730ea9db9c5bcf2",
         "type": "tabs",
-        "dimension": 20.761245674740483,
+        "dimension": 20.761245674740486,
         "children": [
           {
             "id": "88d0b66fd178b54e",
