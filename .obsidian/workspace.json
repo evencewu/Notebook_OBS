@@ -6,7 +6,6 @@
       {
         "id": "8dc0f3a50eeb997c",
         "type": "tabs",
-        "dimension": 79.23875432525952,
         "children": [
           {
             "id": "6c6d0d83c9569ea5",
@@ -18,26 +17,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "912f2a607e72c679"
-          }
-        ]
-      },
-      {
-        "id": "3730ea9db9c5bcf2",
-        "type": "tabs",
-        "dimension": 20.761245674740486,
-        "children": [
-          {
-            "id": "88d0b66fd178b54e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "robotic/notebook/ROS2/ROS2.md"
-              }
-            },
-            "group": "912f2a607e72c679"
+            }
           }
         ]
       }
