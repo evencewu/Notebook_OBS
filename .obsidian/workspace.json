@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
-                "mode": "preview",
+                "file": "robotic/notebook/gazebo/Ignition.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
+                "file": "robotic/notebook/gazebo/Ignition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
+                "file": "robotic/notebook/gazebo/Ignition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md"
+                "file": "robotic/notebook/gazebo/Ignition.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/termux/termux.md",
     "robotic/notebook/termux",
@@ -165,7 +167,6 @@
     "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim.md",
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
@@ -197,7 +198,6 @@
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
     "robotic/notebook/issacsim/issacgym/appendix",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
-    "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png"
