@@ -156,6 +156,8 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/notebook/termux/termux.md",
+    "robotic/notebook/termux",
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/ROS2/ROS2.md",
@@ -194,7 +196,6 @@
     "robotic/notebook/issacsim/未命名",
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
     "robotic/notebook/issacsim/issacgym/appendix",
-    "robotic/notebook/issacsim/issacgym",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/paper/note/Learning Robust and Agile Legged Locomotion Using Adversarial Motion Priors.md",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
