@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
-                "mode": "preview",
+                "file": "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
+                "file": "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
+                "file": "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md"
+                "file": "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md"
               }
             }
           },
@@ -156,18 +156,19 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/notebook/issacsim/issacgym/issacgym.md",
+    "robotic/notebook/issacsim/issacsim例程.md",
+    "robotic/notebook/issacsim/IssacSim Core API.md",
+    "robotic/notebook/issacsim/issacsim.md",
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/issacsim/issacsim.md",
-    "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/termux/termux.md",
     "robotic/notebook/termux",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "obsidian/obsidian插件&模板.md",
-    "robotic/notebook/issacsim/issacsim例程.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
@@ -180,7 +181,6 @@
     "notebook.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "appendix",
-    "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/Ethercat",
@@ -197,7 +197,6 @@
     "robotic/notebook/cpp-arm 编译环境.md",
     "robotic/notebook/issacsim/未命名",
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
-    "robotic/notebook/issacsim/issacgym/appendix",
     "robotic/notebook/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/appendix/Pasted image 20240208043733.png",
     "robotic/notebook/appendix/Pasted image 20240207230152.png"
