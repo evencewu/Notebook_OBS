@@ -1,5 +1,5 @@
 
-
+# python环境设置
 ```shell
 alias PYTHON_PATH=~/.local/share/ov/pkg/isaac_sim-2023.1.1/python.sh
 ```
