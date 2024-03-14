@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md",
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/gazebo/gazebo.md"
+                "file": "robotic/notebook/stm32/cpp-arm 编译环境的安装.md"
               }
             }
           },
@@ -156,7 +156,9 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/gazebo/Ignition.md",
+    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
@@ -164,7 +166,6 @@
     "conflict-files-obsidian-git.md",
     "robotic/notebook/NoteBook.md",
     "robotic/robotic.md",
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/linux/linux技巧.md",
     "robotic/notebook/linux",
     "robotic/notebook/issacsim/issacsim.md",
@@ -175,7 +176,6 @@
     "robotic/notebook/termux",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "obsidian/obsidian插件&模板.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
     "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
     "robotic/notebook/1.md",
