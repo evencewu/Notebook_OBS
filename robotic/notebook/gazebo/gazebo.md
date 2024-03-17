@@ -32,6 +32,10 @@ kill进程
 ```bash
 kill -9 ${ID}
 ```
+.bashrc文件
+```bash
+source /usr/share/gazebo/setup.sh
+```
 
 ```cardlink
 url: https://blog.csdn.net/weixin_44759237/article/details/131976029
