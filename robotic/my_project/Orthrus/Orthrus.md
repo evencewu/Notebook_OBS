@@ -19,3 +19,5 @@ image: https://opengraph.githubassets.com/a88e2be1e34b2b7ad280de2389ec2dc58283e7
     - y 向左
     - z 向上
     - 具体形式和[Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control](http://localhost/Dynamic%20Locomotion%20in%20the%20MIT%20Cheetah%203%20Through%20Convex%20Model-Predictive%20Control)中的定义一样，旋量遵从右手法则。
+
+## 控制 
