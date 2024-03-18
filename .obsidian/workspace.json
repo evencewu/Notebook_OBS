@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
-                "mode": "preview",
+                "file": "robotic/notebook/OCS2/OCS2.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "file": "robotic/notebook/OCS2/OCS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "file": "robotic/notebook/OCS2/OCS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/my_project/Orthrus/Orthrus.md"
+                "file": "robotic/notebook/OCS2/OCS2.md"
               }
             }
           },
@@ -156,10 +156,12 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/my_project/Orthrus/Orthrus.md",
+    "robotic/notebook/OCS2/OCS2.md",
+    "robotic/notebook/OCS2",
     "robotic/notebook/gazebo/gazebo.md",
     "obsidian/obsidian插件&模板.md",
     "appendix/pexels-pixabay-256262.jpg",
-    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/pinocchio",
     "robotic/notebook/gazebo/Ignition.md",
@@ -193,7 +195,6 @@
     "robotic/notebook/ROS2/moviet2",
     "robotic/notebook/ROS2/未命名",
     "robotic/notebook/ROS2",
-    "robotic/notebook/stm32",
     "robotic/notebook/issacsim/appendix/Pasted image 20240207230152.png",
     "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
