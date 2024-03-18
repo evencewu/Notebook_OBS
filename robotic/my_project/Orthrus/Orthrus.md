@@ -28,3 +28,10 @@ title: "足式机器人MPC"
 description: "这是大佬对MITcheetah 开源代码MPC控制的流程注释有兴趣可以参考一下 网页链接提取码：3fyo 来源Na-Cl的博客_CSDN博客-四足机器人,仿真,ROS领域博主 MIT开源项目Cheetah3-MPC控制部分原理解析 MIT开源项目Cheetah3…"
 host: zhuanlan.zhihu.com
 ```
+
+```cardlink
+url: https://zhuanlan.zhihu.com/p/606865479
+title: "OCS2学习 - 1 Double integrator"
+description: "What is OCS2?OCS2 is a C++ toolbox tailored for Optimal Control for Switched Systems (OCS2). The toolbox provides an efficient implementation of the following algorithms: 1. SLQ: Continuous-time dom…"
+host: zhuanlan.zhihu.com
+```
