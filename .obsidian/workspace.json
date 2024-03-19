@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/OCS2/OCS2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -160,8 +160,6 @@
     "robotic/notebook/OCS2/OCS2.md",
     "robotic/notebook/OCS2",
     "robotic/notebook/gazebo/gazebo.md",
-    "obsidian/obsidian插件&模板.md",
-    "appendix/pexels-pixabay-256262.jpg",
     "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/pinocchio",
     "robotic/notebook/gazebo/Ignition.md",
@@ -182,6 +180,8 @@
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/termux",
+    "obsidian/obsidian插件&模板.md",
+    "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
     "robotic/notebook/1.md",
     "robotic/notebook/test.md",
