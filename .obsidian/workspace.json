@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/control/未命名.md",
+                "file": "robotic/notebook/Control/MPC.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/control/未命名.md",
+                "file": "robotic/notebook/Control/MPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/control/未命名.md",
+                "file": "robotic/notebook/Control/MPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/control/未命名.md"
+                "file": "robotic/notebook/Control/MPC.md"
               }
             }
           },
@@ -156,12 +156,12 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/notebook/control/Control.md",
-    "robotic/notebook/control/未命名.md",
+    "robotic/notebook/Control/OCS2.md",
+    "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/Control.md",
     "robotic/notebook/fusion360/fusion360.md",
-    "robotic/notebook/control",
+    "robotic/notebook/Control",
     "robotic/notebook/Ethercat/Ethercat.md",
-    "robotic/notebook/OCS2/OCS2.md",
     "robotic/notebook/fusion360",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2",
