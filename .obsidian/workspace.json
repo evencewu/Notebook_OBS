@@ -11,12 +11,8 @@
             "id": "6c6d0d83c9569ea5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,8 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2/OCS2.md",
+    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/pinocchio/pinocchio.md",
