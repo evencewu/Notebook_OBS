@@ -1,5 +1,16 @@
 
-#
+# 如何在ubuntu中安装fusion360
+
+```cardlink
+url: https://getiot.tech/zh/ubuntu/ubuntu-install-fusion360/
+title: "Ubuntu 安装 Fusion360 | 人人都懂物联网"
+description: "Autodesk Fusion 360 是一个基于云的 3D 建模、CAD、CAM、CAE 和 PCB 软件平台，用于产品设计和制造，为市场上其他知名解决方案提供经济实惠、功能强大的替代方案。但问题是 Autodesk 只提供了 Windows 或 macOS 平台的安装包。"
+host: getiot.tech
+favicon: https://getiot.tech/zh/img/favicon.png
+image: https://getiot.tech/zh/img/getiot-social-card.jpg
+```
+
+
 ```cardlink
 url: https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/issues/233
 title: "Install YAD on my computer *solved* · Issue #233 · cryinkfly/Autodesk-Fusion-360-for-Linux"
