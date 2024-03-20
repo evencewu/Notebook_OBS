@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc0f3a50eeb997c",
+        "id": "40f1571fedebfc85",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6d0d83c9569ea5",
+            "id": "467371eece92af7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "robotic/notebook/Control/Control.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "robotic/notebook/Control/Control.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c6d0d83c9569ea5",
+  "active": "467371eece92af7c",
   "lastOpenFiles": [
     "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/Control.md",
-    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/fusion360/fusion360.md",
     "robotic/notebook/Control",
     "robotic/notebook/Ethercat/Ethercat.md",
