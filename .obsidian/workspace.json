@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/fusion360/fusion360.md",
-                "mode": "preview",
+                "file": "robotic/notebook/control/未命名.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/fusion360/fusion360.md",
+                "file": "robotic/notebook/control/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/fusion360/fusion360.md",
+                "file": "robotic/notebook/control/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/fusion360/fusion360.md"
+                "file": "robotic/notebook/control/未命名.md"
               }
             }
           },
@@ -156,8 +156,10 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/fusion360/fusion360.md",
+    "robotic/notebook/control/未命名.md",
+    "robotic/notebook/control",
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/OCS2/OCS2.md",
     "robotic/notebook/fusion360",
     "robotic/my_project/Orthrus/Orthrus.md",
@@ -190,11 +192,9 @@
     "robotic/paper/robotic 论文阅读.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "notebook.md",
     "appendix",
     "robotic/notebook/Ethercat",
     "robotic/notebook/ROS2/moviet2",
-    "robotic/notebook/ROS2/未命名",
     "robotic/notebook/issacsim/appendix/Pasted image 20240207230152.png",
     "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
     "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
