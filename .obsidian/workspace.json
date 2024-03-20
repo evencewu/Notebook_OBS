@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/Control.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md"
+                "file": "robotic/notebook/Control/Control.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/Control.md",
+    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/fusion360/fusion360.md",
     "robotic/notebook/Control",
     "robotic/notebook/Ethercat/Ethercat.md",
@@ -189,7 +190,6 @@
     "appendix/pexels-pixabay-256262.jpg",
     "appendix/Pasted.md",
     "robotic/notebook/1.md",
-    "robotic/notebook/test.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "appendix",
