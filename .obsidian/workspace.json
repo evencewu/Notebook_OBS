@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/fusion360/fusion360.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -156,8 +156,9 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/notebook/OCS2/OCS2.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/fusion360/fusion360.md",
+    "robotic/notebook/OCS2/OCS2.md",
     "robotic/notebook/fusion360",
     "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2",
@@ -166,7 +167,6 @@
     "robotic/notebook/pinocchio",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",

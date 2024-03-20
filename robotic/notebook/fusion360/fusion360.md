@@ -1,6 +1,17 @@
 
 # 如何在ubuntu中安装fusion360
 
+
+```cardlink
+url: https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux
+title: "GitHub - cryinkfly/Autodesk-Fusion-360-for-Linux: This is a project, where I give you a way to use Autodesk Fusion 360 on Linux!"
+description: "This is a project, where I give you a way to use Autodesk Fusion 360 on Linux! - cryinkfly/Autodesk-Fusion-360-for-Linux"
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/05bb65b102ad6063b2a9c4a7b9c1054b6e17d80c917b889cd987298dc2c1588a/cryinkfly/Autodesk-Fusion-360-for-Linux
+```
+
+
 ```cardlink
 url: https://getiot.tech/zh/ubuntu/ubuntu-install-fusion360/
 title: "Ubuntu 安装 Fusion360 | 人人都懂物联网"
