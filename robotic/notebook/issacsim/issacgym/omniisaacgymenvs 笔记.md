@@ -4,7 +4,8 @@
 alias PYTHON_PATH=~/.local/share/ov/pkg/isaac_sim-2023.1.1/python.sh
 ```
 
-
+# 启动B阿lance
+测试
 
 # 如何添加新的仿真任务
 
