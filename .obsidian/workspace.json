@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
-                "mode": "source",
+                "file": "robotic/my_project/Orthrus/Orthrus.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
+                "file": "robotic/my_project/Orthrus/Orthrus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md",
+                "file": "robotic/my_project/Orthrus/Orthrus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/OCS2/OCS2.md"
+                "file": "robotic/my_project/Orthrus/Orthrus.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
-    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2/OCS2.md",
+    "robotic/my_project/Orthrus/Orthrus.md",
     "robotic/notebook/OCS2",
     "robotic/notebook/gazebo/gazebo.md",
     "obsidian/obsidian插件&模板.md",
