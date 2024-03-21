@@ -1,10 +1,13 @@
 
 # python环境设置
-```shell
+```bash
 alias PYTHON_PATH=~/.local/share/ov/pkg/isaac_sim-2023.1.1/python.sh
 ```
 
-
+# 启动Balance测试
+```bash
+PYTHON_PATH train.py task=Balance checkpoint=runs/Balance/nn/Balance.pth test=True num_envs=1 
+```
 
 # 如何添加新的仿真任务
 

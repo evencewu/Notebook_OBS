@@ -31,3 +31,11 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/1a92e2d0c94809b7bcaa0c9b7cf014b2df25ad58514c79910de73de1c92036a5/stack-of-tasks/eigenpy
 ```
+# pcap相关
+
+```cardlink
+url: https://blog.csdn.net/qq_35097289/article/details/130690974
+title: "【PCL build issue】WARNING ** io features related to pcap png will be disabled_io features related to pcap will be disabled-CSDN博客"
+description: "文章浏览阅读1.3k次，点赞4次，收藏7次。WARNING ** io features related to pcap png will be disabled _io features related to pcap will be disabled"
+host: blog.csdn.net
+```
