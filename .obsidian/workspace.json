@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/OCS2.md",
-                "mode": "preview",
+                "file": "robotic/notebook/git.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/OCS2.md",
+                "file": "robotic/notebook/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/OCS2.md",
+                "file": "robotic/notebook/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/OCS2.md"
+                "file": "robotic/notebook/git.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aff907e7263445c8",
+  "active": "6c6d0d83c9569ea5",
   "lastOpenFiles": [
+    "robotic/notebook/Control/OCS2.md",
+    "robotic/notebook/git.md",
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/Control.md",
@@ -164,7 +166,6 @@
     "robotic/my_project/Orthrus/Orthrus.md",
     "conflict-files-obsidian-git.md",
     "robotic/notebook/fusion360",
-    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control",
     "robotic/notebook/OCS2/OCS2.md",
     "robotic/notebook/OCS2",
@@ -189,7 +190,6 @@
     "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/termux",
-    "appendix/Pasted.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "appendix",
