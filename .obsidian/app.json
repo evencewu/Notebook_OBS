@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "./appendix",
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": true,
+  "foldHeading": true,
+  "propertiesInDocument": "hidden",
+  "livePreview": false,
+  "defaultViewMode": "preview"
+}

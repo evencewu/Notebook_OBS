@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "2f79ca9ebb79f9c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "544d9bb11e5dfb0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149a49e8c0abbe66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/termux/termux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b98dfd11873392f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cce0e82aa511d203",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "44fc18c1d094bc74",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "637814ecb6994d2d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fec208d247bd1340",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "99af660644a168e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f3a5d228b111cf1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "robotic/notebook/termux/termux.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f82a357193c04add",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "robotic/notebook/termux/termux.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d5a075686e3ebe2c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "robotic/notebook/termux/termux.md"
+          }
+        }
+      },
+      {
+        "id": "da2608c0033c6f93",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "149a49e8c0abbe66",
+  "lastOpenFiles": [
+    "robotic/notebook/issacsim/issacsim.md",
+    "robotic/notebook/termux/termux.md",
+    "robotic/notebook/termux",
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
+    "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
+    "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
+    "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/ROS2/moviet2/moviet2.md",
+    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
+    "appendix/pexels-pixabay-256262.jpg",
+    "/robotic/robotic.md",
+    "/robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
+    "/robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
+    "robotic/notebook/issacsim/issacgym/issacgym.md",
+    "/robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
+    "/robotic/notebook/issacsim/issacgym/RL 数学基础.md",
+    "/robotic/notebook/gazebo/gazebo.md",
+    "/robotic/notebook/ROS2/moviet2/moviet2.md",
+    "/robotic/notebook/ROS2/ROS2.md",
+    "/robotic/notebook/NoteBook.md",
+    "/robotic/notebook/Ethercat/Ethercat.md",
+    "/obsidian/obsidian插件&模板.md",
+    "/appendix/pexels-pixabay-256262.jpg",
+    "/robotic/notebook/issacsim/issacgym/issacgym.md",
+    "robotic/notebook/issacsim/issacgym/appendix",
+    "robotic/notebook/issacsim/issacgym",
+    "robotic/notebook/gazebo",
+    "robotic/notebook/ROS2/moviet2",
+    "robotic/notebook/ROS2",
+    "robotic/notebook/Ethercat",
+    "appendix",
+    "/robotic/notebook/issacsim/issacgym/appendix",
+    "/robotic/notebook/issacsim/issacgym",
+    "未命名.md",
+    "conflict-files-obsidian-git.md",
+    "robotic/notebook/issacsim/issacsim例程.md",
+    "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
+    "robotic/paper/robotic 论文阅读.md"
+  ]
+}
