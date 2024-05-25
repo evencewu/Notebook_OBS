@@ -37,3 +37,4 @@ title: "ROS2与Gazebo11入门教程-相机畸变（Camera Distortion） - 创客
 description: "说明：介绍相机畸变（Camera Distortion）简介相机镜头通常会表现出一定程度的光学畸变，从而导致图像变形。一个示例就是鱼眼镜头相机，该相机通常在机器人应用程序中使用，来为对象识别或导..."
 host: www.ncnynl.com
 ```
+控制框架
