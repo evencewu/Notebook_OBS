@@ -12,3 +12,10 @@ title: "机器人工程师进阶之路（十一）动力学分析——拉格朗
 description: "机器人工程师进阶之路（十一）动力学分析——拉格朗日力学分析法"
 host: www.guyuehome.com
 ```
+# install
+
+```cardlink
+url: https://stack-of-tasks.github.io/pinocchio/download.html
+title: "Pinocchio"
+host: stack-of-tasks.github.io
+```
