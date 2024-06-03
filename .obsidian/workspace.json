@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md"
+                "file": "robotic/notebook/gazebo/gazebo.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "1357a8541f4be273",
   "lastOpenFiles": [
+    "robotic/notebook/NoteBook.md",
+    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/数学基础/李群流形.md",
     "robotic/notebook/数学基础",
     "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
-    "robotic/notebook/NoteBook.md",
-    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/Control/Control.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/MPC.md",

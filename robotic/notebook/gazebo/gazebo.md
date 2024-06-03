@@ -48,3 +48,11 @@ url: https://book.guyuehome.com/ROS2/3.%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/3.4_
 title: "ROS2入门教程 gazebo"
 host: book.guyuehome.com
 ```
+# 前后端分离
+
+```cardlink
+url: https://answers.gazebosim.org/question/255/is-it-possible-to-run-gzserver-and-gzclient-on-separate-computers/
+title: "Is it possible to run gzserver and gzclient on separate computers? - Gazebo: Q&A Forum"
+description: "Is it possible to run gzserver on one computer while the gzclient on another one? I tried to change the GAZEBOMASTERURI on another computer to the IP address that the gazebo runs, and then start the gzclient. The messages printed out show that it connects to the gazebo master but shows only an empty world on GUI."
+host: answers.gazebosim.org
+```
