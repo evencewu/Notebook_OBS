@@ -1,5 +1,14 @@
 
 ```cardlink
+url: https://github.com/stack-of-tasks/pinocchio
+title: "GitHub - stack-of-tasks/pinocchio: A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives"
+description: "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives - stack-of-tasks/pinocchio"
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/cac503a5f518cf6e5d1e653598b5dda857df590cdc8484e402fb38a95a2a2fa6/stack-of-tasks/pinocchio
+```
+
+```cardlink
 url: https://blog.csdn.net/dai19981003/article/details/131984818
 title: "【pinocchio动力学库01】pinocchio动力学库中的运动学相关函数_pinocchio库中计算逆运动学-CSDN博客"
 description: "文章浏览阅读731次，点赞4次，收藏4次。pinocchio动力学库中的运动学相关函数_pinocchio库中计算逆运动学"
