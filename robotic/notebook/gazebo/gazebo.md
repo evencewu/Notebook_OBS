@@ -56,3 +56,10 @@ title: "Is it possible to run gzserver and gzclient on separate computers? - Gaz
 description: "Is it possible to run gzserver on one computer while the gzclient on another one? I tried to change the GAZEBOMASTERURI on another computer to the IP address that the gazebo runs, and then start the gzclient. The messages printed out show that it connects to the gazebo master but shows only an empty world on GUI."
 host: answers.gazebosim.org
 ```
+
+```cardlink
+url: https://answers.gazebosim.org/question/7117/running-gzserver-on-ec2-and-gzclient-locally-is-not-working/
+title: "Running gzserver on EC2 and gzclient locally is not working - Gazebo: Q&A Forum"
+description: "So I have an AWS ec2 instance that I am trying to run gzserver on and then locally I want to connect to it with gzclient. I am working with gazebo-2.2 These are my steps: AWS instance: ssh into instance (I try ssh -X, ssh -Y and ssh) source /usr/share/gazebo/setup.sh GAZEBO_IP=[aws_public_ip] GAZEBO_MASTER_URI=[aws_public_ip] gzserver worlds/shapes.world Locally: source /usr/share/gazebo/setup.sh GAZEBO_IP=[local_public_ip] GAZEBO_MASTER_URI=[aws_public_ip] gzclient The client appears to connect to the server. The gazebo GUI appears but the world does not, just a black screen. After some time both the server and client eventually crash. But if I run both gzserver and gzclient on the same machine (AWS instance or locally) it works. I setup my AWS instance and my machine to accept all traffic on all ports so I don't think that could be the problem. Any ideas would help!"
+host: answers.gazebosim.org
+```
