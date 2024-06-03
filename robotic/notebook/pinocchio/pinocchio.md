@@ -21,6 +21,14 @@ title: "机器人工程师进阶之路（十一）动力学分析——拉格朗
 description: "机器人工程师进阶之路（十一）动力学分析——拉格朗日力学分析法"
 host: www.guyuehome.com
 ```
+
+# doc
+```cardlink
+url: http://docs.ros.org/en/jazzy/p/pinocchio/user_docs.html
+title: "Documentation — pinocchio 2.7.1 documentation"
+host: docs.ros.org
+```
+
 # install
 
 ```cardlink
