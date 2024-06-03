@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "860a24d13151e7d4",
+    "id": "de369a21af5fea64",
     "type": "split",
     "children": [
       {
-        "id": "8dc0f3a50eeb997c",
+        "id": "fe8976c8ffcd01b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6d0d83c9569ea5",
+            "id": "1357a8541f4be273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
                 "mode": "preview",
                 "source": true
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "18c6a660a5feb4be",
+    "id": "10f7511c3d25746b",
     "type": "split",
     "children": [
       {
-        "id": "39d7d9a02db2b574",
+        "id": "94da6377d9bf260e",
         "type": "tabs",
         "children": [
           {
-            "id": "f0543157223ad58c",
+            "id": "7da47d29881fa24b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +43,13 @@
             }
           },
           {
-            "id": "1019b2cebfb5bfa4",
+            "id": "8a224cfa186fca11",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1b9ab525108e9b9e",
+            "id": "3697e254404aa22d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e81e160aed15d769",
+    "id": "501c18fb8158b3cb",
     "type": "split",
     "children": [
       {
-        "id": "8c5ff7742c1a5b18",
+        "id": "e8a91a5f34419e0c",
         "type": "tabs",
         "children": [
           {
-            "id": "a5ccbf27f28dfd7b",
+            "id": "85355d6a87654132",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "91539b21ea6cca68",
+            "id": "92b5afaf1521bb5a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fdfc8df733c00035",
+            "id": "1a2cb07ad5e7b88a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "aff907e7263445c8",
+            "id": "3409aae922d6755d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/git.md"
+                "file": "robotic/notebook/pinocchio/pinocchio.md"
               }
             }
           },
           {
-            "id": "2aac56b6f7ce2006",
+            "id": "e1bf0289631f4bc7",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,52 +155,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c6d0d83c9569ea5",
+  "active": "1357a8541f4be273",
   "lastOpenFiles": [
-    "robotic/notebook/Control/OCS2.md",
-    "robotic/notebook/git.md",
-    "robotic/notebook/Control/MPC.md",
-    "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/Control/Control.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
-    "robotic/notebook/fusion360/fusion360.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
-    "conflict-files-obsidian-git.md",
-    "robotic/notebook/fusion360",
-    "robotic/notebook/Control",
-    "robotic/notebook/OCS2/OCS2.md",
-    "robotic/notebook/OCS2",
-    "robotic/notebook/gazebo/gazebo.md",
-    "obsidian/obsidian插件&模板.md",
-    "appendix/pexels-pixabay-256262.jpg",
-    "robotic/notebook/pinocchio/pinocchio.md",
-    "robotic/notebook/pinocchio",
-    "robotic/notebook/gazebo/Ignition.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
-    "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
-    "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
-    "robotic/notebook/issacsim/issacgym/issacgym.md",
-    "robotic/notebook/termux/termux.md",
+    "robotic/notebook/数学基础/李群流形.md",
+    "robotic/notebook/数学基础",
+    "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
     "robotic/notebook/NoteBook.md",
-    "robotic/robotic.md",
-    "robotic/notebook/linux/linux技巧.md",
-    "robotic/notebook/linux",
+    "robotic/notebook/pinocchio/pinocchio.md",
+    "robotic/notebook/Control/Control.md",
+    "robotic/notebook/Control/DDP.md",
+    "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/OCS2.md",
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+    "robotic/notebook/ROS2/ros2_control",
+    "robotic/notebook/ROS2/moviet2/moviet2.md",
+    "未命名.canvas",
+    "robotic/notebook/git.md",
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/gazebo/Ignition.md",
+    "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
+    "robotic/notebook/stm32/SPI.md",
+    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
+    "robotic/notebook/issacsim/issacgym/issacgym.md",
+    "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim例程.md",
-    "robotic/paper/doc/Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control.pdf",
-    "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/termux",
-    "未命名.canvas",
-    "未命名 1.canvas",
-    "appendix",
-    "robotic/notebook/Ethercat",
-    "robotic/notebook/ROS2/moviet2",
-    "robotic/notebook/issacsim/appendix/Pasted image 20240207230152.png",
-    "robotic/notebook/issacsim/appendix/Pasted image 20240108193503.png",
-    "robotic/notebook/issacsim/issacgym/appendix/Pasted image 20240226152138.png",
-    "robotic/notebook/appendix/Pasted image 20240108193503.png",
-    "robotic/notebook/appendix/Pasted image 20240208043733.png",
-    "robotic/notebook/appendix/Pasted image 20240207230152.png"
+    "robotic/notebook/Ethercat/Ethercat.md"
   ]
 }
