@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/Control/SQP.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -157,6 +157,8 @@
   },
   "active": "682453b1601ab224",
   "lastOpenFiles": [
+    "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
+    "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix",
     "robotic/notebook/Control/OCS2.md",
