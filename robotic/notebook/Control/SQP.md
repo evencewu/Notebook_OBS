@@ -10,7 +10,7 @@ SQP是一种迭代优化算法，适用于解决非线性约束优化问题。�
     
 3. **二次子问题**：构建二次规划子问题。二次子问题的目标是最小化二次近似的拉格朗日函数：
     
-    min⁡12ΔxTHΔx+∇f(xk)TΔx\min \frac{1}{2} \Delta x^T H \Delta x + \nabla f(x_k)^T \Delta xmin21​ΔxTHΔx+∇f(xk​)TΔx
+    $min⁡12ΔxTHΔx+∇f(xk)TΔx\min \frac{1}{2} \Delta x^T H \Delta x + \nabla f(x_k)^T \Delta xmin21​ΔxTHΔx+∇f(xk​)TΔx$
     
     其中，HHH 是拉格朗日函数的海森矩阵或其近似，∇f(xk)\nabla f(x_k)∇f(xk​) 是目标函数的梯度，Δx=x−xk\Delta x = x - x_kΔx=x−xk​ 是迭代方向。
     
