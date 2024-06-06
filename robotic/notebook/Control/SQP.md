@@ -1,0 +1,25 @@
+### 序列二次规划（SQP）
+
+SQP是一种迭代优化算法，适用于解决非线性约束优化问题。其核心思想是将非线性优化问题转化为一系列二次规划（Quadratic Programming, QP）子问题进行求解。
+
+#### 核心步骤
+
+1. **初始点选择**：选择初始猜测值 x0x_0x0​。
+    
+2. **线性化**：在当前迭代点 xkx_kxk​，对目标函数和约束条件进行一阶泰勒展开，线性化非线性约束条件。
+    
+3. **二次子问题**：构建二次规划子问题。二次子问题的目标是最小化二次近似的拉格朗日函数：
+    
+    min⁡12ΔxTHΔx+∇f(xk)TΔx\min \frac{1}{2} \Delta x^T H \Delta x + \nabla f(x_k)^T \Delta xmin21​ΔxTHΔx+∇f(xk​)TΔx
+    
+    其中，HHH 是拉格朗日函数的海森矩阵或其近似，∇f(xk)\nabla f(x_k)∇f(xk​) 是目标函数的梯度，Δx=x−xk\Delta x = x - x_kΔx=x−xk​ 是迭代方向。
+    
+    同时，满足线性化约束条件：
+    
+    {∇gi(xk)TΔx+gi(xk)=0(等式约束)∇hj(xk)TΔx+hj(xk)≤0(不等式约束)\begin{cases} \nabla g_i(x_k)^T \Delta x + g_i(x_k) = 0 & \text{(等式约束)} \\ \nabla h_j(x_k)^T \Delta x + h_j(x_k) \le 0 & \text{(不等式约束)} \end{cases}{∇gi​(xk​)TΔx+gi​(xk​)=0∇hj​(xk​)TΔx+hj​(xk​)≤0​(等式约束)(不等式约束)​
+4. **求解子问题**：使用二次规划方法（如内点法或活动集法）求解上述二次子问题，得到迭代方向 Δxk\Delta x_kΔxk​。
+    
+5. **步长选择**：选择合适的步长 αk\alpha_kαk​，更新迭代点：
+    
+    xk+1=xk+αkΔxkx_{k+1} = x_k + \alpha_k \Delta x_kxk+1​=xk​+αk​Δxk​
+6. **收敛判断**：检查收敛条件。如果满足收敛条件（如梯度的范数足够小），则停止迭代；否则，返回第2步继续迭代。
