@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "611e361d54d2bcc9",
+        "id": "49cae45b145db383",
         "type": "tabs",
         "children": [
           {
-            "id": "682453b1601ab224",
+            "id": "0e6862be7cfcd6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/SQP.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/SQP.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/SQP.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/SQP.md"
+                "file": "robotic/notebook/gazebo/gazebo.md"
               }
             }
           },
@@ -155,19 +155,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "682453b1601ab224",
+  "active": "0e6862be7cfcd6de",
   "lastOpenFiles": [
+    "robotic/notebook/gazebo/未命名.md",
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
+    "robotic/notebook/Control/SQP.md",
     "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix",
     "robotic/notebook/Control/OCS2.md",
-    "robotic/notebook/Control/SQP.md",
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/数学基础/李群流形.md",
     "robotic/notebook/数学基础",
@@ -186,7 +188,6 @@
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
-    "robotic/notebook/issacsim/issacsim例程.md",
-    "robotic/notebook/Ethercat/Ethercat.md"
+    "robotic/notebook/issacsim/issacsim例程.md"
   ]
 }

@@ -63,3 +63,11 @@ title: "Running gzserver on EC2 and gzclient locally is not working - Gazebo: Q&
 description: "So I have an AWS ec2 instance that I am trying to run gzserver on and then locally I want to connect to it with gzclient. I am working with gazebo-2.2 These are my steps: AWS instance: ssh into instance (I try ssh -X, ssh -Y and ssh) source /usr/share/gazebo/setup.sh GAZEBO_IP=[aws_public_ip] GAZEBO_MASTER_URI=[aws_public_ip] gzserver worlds/shapes.world Locally: source /usr/share/gazebo/setup.sh GAZEBO_IP=[local_public_ip] GAZEBO_MASTER_URI=[aws_public_ip] gzclient The client appears to connect to the server. The gazebo GUI appears but the world does not, just a black screen. After some time both the server and client eventually crash. But if I run both gzserver and gzclient on the same machine (AWS instance or locally) it works. I setup my AWS instance and my machine to accept all traffic on all ports so I don't think that could be the problem. Any ideas would help!"
 host: answers.gazebosim.org
 ```
+
+```cardlink
+url: https://robotics.stackexchange.com/questions/108423/multiple-isolated-gazebo-on-same-pcros2?newreg=90640c9aa3dd4676a6b405fd9a1bce74
+title: "Multiple isolated gazebo on same PC(ROS2)"
+description: "I need to run multiple instances of gazebo on same PC (ROS version foxy) and want to interact with them individually like spawning a robot in one of them.I tried using different ROS_DOMAIN_ID in"
+host: robotics.stackexchange.com
+image: https://cdn.sstatic.net/Sites/robotics/Img/apple-touch-icon@2.png?v=da210979bb08
+```
