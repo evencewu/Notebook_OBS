@@ -17,11 +17,16 @@ favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/92fffa000becc4546df3d2372ace098acedd92ea134fc5f251a055e1a0471e6f/ros-controls/gazebo_ros2_control
 ```
 
-# doc
+# Document
 ```cardlink
 url: https://control.ros.org/humble/doc/ros2_control_demos/doc/index.html#ros2-control-demos-install
 title: "Demos — ROS2_Control: Humble Feb 2024 documentation"
 host: control.ros.org
+```
+```cardlink
+url: https://book.guyuehome.com/ROS2/3.%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/3.4_Gazebo/
+title: "ROS2入门教程 gazebo"
+host: book.guyuehome.com
 ```
 
 查询gazebo进程
@@ -43,11 +48,7 @@ title: "【ROS2】通过launch使用gazebo11打开xacro模型（含机械臂）_
 description: "文章浏览阅读698次。ros2刚使用不久，如文章内容有误，欢迎在评论内讨论与指正。环境配置：ubuntu版本：22.04ros版本：ros2 humble。_xacro.parse()"
 host: blog.csdn.net
 ```
-```cardlink
-url: https://book.guyuehome.com/ROS2/3.%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7/3.4_Gazebo/
-title: "ROS2入门教程 gazebo"
-host: book.guyuehome.com
-```
+
 # 前后端分离
 
 ```cardlink
