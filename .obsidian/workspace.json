@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/ROS2/realsense d435i.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/ROS2/realsense d435i.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/ROS2/realsense d435i.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md"
+                "file": "robotic/notebook/ROS2/realsense d435i.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "0e6862be7cfcd6de",
   "lastOpenFiles": [
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/ROS2/foxglove/foxglove.md",
+    "robotic/notebook/ROS2/realsense d435i.md",
+    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
     "robotic/notebook/Ethercat/Ethercat.md",
