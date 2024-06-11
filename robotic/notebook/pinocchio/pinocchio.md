@@ -55,4 +55,13 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/d771da17119f45c9b2b81190d05fe8d484dedeb1ef0ffe79ccf1214e4a346e19/stack-of-tasks/pinocchio/issues/2005
 ```
-# mo'dua
+# 末端执行器位置
+
+```cardlink
+url: https://github.com/stack-of-tasks/pinocchio/issues/802
+title: "End-effector position and rotation · Issue #802 · stack-of-tasks/pinocchio"
+description: "Hi guys, thank you very much for all your effort building this amazing framework. I just noticed that after building a model from an URDF (Kinova Gen3 robot, KUKA iiwa 14, etc), the variable model...."
+host: github.com
+favicon: https://github.githubassets.com/favicons/favicon.svg
+image: https://opengraph.githubassets.com/f8637caa80fa8e7544cf7a3984effc8770414fbf9e95e253c94dc681ea5fc88a/stack-of-tasks/pinocchio/issues/802
+```
