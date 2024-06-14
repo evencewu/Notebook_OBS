@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "566a1a8b3bde35f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e6862be7cfcd6de",
+  "active": "566a1a8b3bde35f1",
   "lastOpenFiles": [
     "robotic/notebook/ROS2/realsense d435i.md",
     "robotic/notebook/ROS2/foxglove/foxglove.md",
