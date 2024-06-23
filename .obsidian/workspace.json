@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/Ignition.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/Ignition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/gazebo/Ignition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md"
+                "file": "robotic/notebook/gazebo/Ignition.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "0e6862be7cfcd6de",
   "lastOpenFiles": [
-    "robotic/notebook/ROS2/realsense d435i.md",
-    "robotic/notebook/ROS2/foxglove/foxglove.md",
     "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+    "robotic/notebook/ROS2/realsense d435i.md",
+    "robotic/notebook/pinocchio/pinocchio.md",
+    "robotic/notebook/ROS2/foxglove/foxglove.md",
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
     "robotic/notebook/Ethercat/Ethercat.md",
@@ -173,13 +176,10 @@
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
-    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/数学基础/李群流形.md",
     "robotic/notebook/数学基础",
     "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
     "robotic/notebook/Control/Control.md",
-    "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/ROS2/ros2_control",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "未命名.canvas",
