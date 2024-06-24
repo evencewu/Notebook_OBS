@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49cae45b145db383",
+        "id": "bbc899c0de37d1ba",
         "type": "tabs",
         "children": [
           {
-            "id": "0e6862be7cfcd6de",
+            "id": "ea80efda1781a3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
                 "mode": "preview",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/issacsim/issacsim.md"
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md"
               }
             }
           },
@@ -156,15 +155,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e6862be7cfcd6de",
+  "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
+    "robotic/notebook/ROS2/foxglove/foxglove.md",
+    "robotic/notebook/ROS2/moviet2/moviet2.md",
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/ROS2/realsense d435i.md",
     "robotic/notebook/pinocchio/pinocchio.md",
-    "robotic/notebook/ROS2/foxglove/foxglove.md",
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
     "robotic/notebook/Ethercat/Ethercat.md",
@@ -183,14 +184,12 @@
     "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
     "robotic/notebook/Control/Control.md",
     "robotic/notebook/ROS2/ros2_control",
-    "robotic/notebook/ROS2/moviet2/moviet2.md",
     "未命名.canvas",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/stm32/SPI.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
-    "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/issacsim/IssacSim Core API.md",
     "robotic/notebook/issacsim/issacsim例程.md"
   ]
