@@ -38,3 +38,10 @@ description: "说明：介绍相机畸变（Camera Distortion）简介相机镜�
 host: www.ncnynl.com
 ```
 
+
+```cardlink
+url: https://blog.csdn.net/LiWang112358/article/details/124675709
+title: "如何在ubuntu22.04上使用微软精英手柄_ubuntu 20.04开启游戏杆的xinput-CSDN博客"
+description: "文章浏览阅读1.1k次。运行环境Linux wangli-System-Product-Name 5.15.0-25-generic #25-Ubuntu SMP Wed Mar 30 15:54:22 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux1. 安装xonegit clone https://github.com/medusalix/xone按照官方说明一步一步做注意，安装好驱动之后，手柄的usb接收器可以亮起来，但是这时还无法配对，需要执行一下echo 0 |_ubuntu 20.04开启游戏杆的xinput"
+host: blog.csdn.net
+```
