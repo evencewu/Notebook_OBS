@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "代理",
+                "query": "gazebo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/git.md"
+                "file": "robotic/notebook/gazebo/gazebo.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
+    "robotic/notebook/git.md",
     "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/notebook/Ethercat/Ethercat.md",
@@ -179,7 +180,6 @@
     "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
     "robotic/notebook/数学基础/李群流形.md",
     "robotic/notebook/数学基础",
