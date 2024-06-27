@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md"
+                "file": "robotic/notebook/ROS2/foxglove/foxglove.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/ROS2/foxglove/foxglove.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/gazebo/gazebo.md",
