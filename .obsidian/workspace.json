@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/git.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xac",
+                "query": "代理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md",
+                "file": "robotic/notebook/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/ROS2/foxglove/foxglove.md"
+                "file": "robotic/notebook/git.md"
               }
             }
           },
@@ -157,18 +158,19 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+    "robotic/notebook/pinocchio/pinocchio.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/ROS2/foxglove/foxglove.md",
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/realsense d435i.md",
-    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/Control/SQP.md",
     "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
@@ -190,7 +192,6 @@
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/issacsim/issacgym/issacgym.md",
     "robotic/notebook/issacsim/issacgym/RL 数学基础.md",
-    "robotic/notebook/issacsim/IssacSim Core API.md",
-    "robotic/notebook/issacsim/issacsim例程.md"
+    "robotic/notebook/issacsim/IssacSim Core API.md"
   ]
 }
