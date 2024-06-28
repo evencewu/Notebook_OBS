@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/ROS2/ROS2.md",
+                "file": "robotic/notebook/linux/网卡驱动.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/ROS2/ROS2.md",
+                "file": "robotic/notebook/linux/网卡驱动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/ROS2/ROS2.md",
+                "file": "robotic/notebook/linux/网卡驱动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/ROS2/ROS2.md"
+                "file": "robotic/notebook/linux/网卡驱动.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/ROS2/realsense d435i.md",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "2024-06-27.md",
@@ -169,7 +171,6 @@
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/issacsim/issacsim.md",
     "robotic/notebook/gazebo/Ignition.md",
-    "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
     "robotic/notebook/Control/SQP.md",
@@ -190,7 +191,6 @@
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
     "robotic/notebook/stm32/SPI.md",
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
-    "robotic/notebook/issacsim/issacgym/issacgym.md",
-    "robotic/notebook/issacsim/issacgym/RL 数学基础.md"
+    "robotic/notebook/issacsim/issacgym/issacgym.md"
   ]
 }
