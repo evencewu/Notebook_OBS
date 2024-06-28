@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/linux/更换内核.md",
+                "file": "robotic/notebook/git.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "代理",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/linux/更换内核.md",
+                "file": "robotic/notebook/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/linux/更换内核.md",
+                "file": "robotic/notebook/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/linux/更换内核.md"
+                "file": "robotic/notebook/git.md"
               }
             }
           },
@@ -157,8 +158,8 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
-    "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/linux/更换内核.md",
+    "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/realsense d435i.md",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
