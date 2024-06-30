@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/git.md",
-                "mode": "source",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/git.md"
+                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a224cfa186fca11",
+  "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/git.md",
+    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/linux/更换内核.md",
     "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/ROS2/ROS2.md",
