@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
-                "mode": "preview",
+                "file": "robotic/notebook/Control/Fliter.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ros",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "file": "robotic/notebook/Control/Fliter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+                "file": "robotic/notebook/Control/Fliter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/ROS2/ros2_control/ros2_control.md"
+                "file": "robotic/notebook/Control/Fliter.md"
               }
             }
           },
@@ -158,13 +157,14 @@
   },
   "active": "ea80efda1781a3ac",
   "lastOpenFiles": [
+    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
+    "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/git.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/linux/更换内核.md",
     "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/realsense d435i.md",
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "2024-06-27.md",
     "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
@@ -191,7 +191,6 @@
     "robotic/notebook/ROS2/ros2_control",
     "未命名.canvas",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
-    "robotic/notebook/stm32/SPI.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md"
+    "robotic/notebook/stm32/SPI.md"
   ]
 }
