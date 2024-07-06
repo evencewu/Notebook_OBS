@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc899c0de37d1ba",
+        "id": "d7c0f88461d96ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "ea80efda1781a3ac",
+            "id": "01ab364290cfa720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/模仿学习ML/未命名.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/模仿学习ML/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/git.md",
+                "file": "robotic/模仿学习ML/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/git.md"
+                "file": "robotic/模仿学习ML/未命名.md"
               }
             }
           },
@@ -155,11 +155,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7da47d29881fa24b",
+  "active": "01ab364290cfa720",
   "lastOpenFiles": [
+    "robotic/模仿学习ML/未命名.md",
+    "robotic/模仿学习ML",
+    "fpga/FPGA.md",
+    "appendix/pexels-pixabay-256262.jpg",
+    "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
+    "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
+    "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
+    "robotic/notebook/git.md",
     "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
-    "robotic/notebook/git.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/linux/更换内核.md",
     "robotic/notebook/linux/网卡驱动.md",
@@ -176,9 +183,6 @@
     "robotic/notebook/ROS2/foxglove",
     "robotic/notebook/gazebo/未命名.md",
     "robotic/notebook/Control/SQP.md",
-    "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
-    "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
-    "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix",
     "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC.md",
@@ -189,8 +193,6 @@
     "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
     "robotic/notebook/Control/Control.md",
     "robotic/notebook/ROS2/ros2_control",
-    "未命名.canvas",
-    "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
-    "robotic/notebook/stm32/SPI.md"
+    "未命名.canvas"
   ]
 }
