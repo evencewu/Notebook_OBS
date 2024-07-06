@@ -8,4 +8,5 @@ host: mobile-aloha.github.io
 favicon: ./favicon.ico
 image: https://mobile-aloha.github.io/static/images/preview.gif
 ```
+# 论文
 ![[mobile-aloha.pdf]]
