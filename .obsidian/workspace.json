@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea80efda1781a3ac",
+  "active": "7da47d29881fa24b",
   "lastOpenFiles": [
     "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
