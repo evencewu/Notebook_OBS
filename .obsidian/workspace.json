@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/模仿学习ML/Mobile Aloha.md",
-                "mode": "source",
+                "file": "robotic/notebook/gazebo/gazebo.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "代理",
+                "query": "gazebo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/模仿学习ML/Mobile Aloha.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/模仿学习ML/Mobile Aloha.md",
+                "file": "robotic/notebook/gazebo/gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/模仿学习ML/Mobile Aloha.md"
+                "file": "robotic/notebook/gazebo/gazebo.md"
               }
             }
           },
@@ -157,9 +158,9 @@
   },
   "active": "01ab364290cfa720",
   "lastOpenFiles": [
+    "robotic/模仿学习ML/Mobile Aloha.md",
     "robotic/模仿学习ML/appendix/mobile-aloha.pdf",
     "robotic/模仿学习ML/appendix",
-    "robotic/模仿学习ML/Mobile Aloha.md",
     "robotic/模仿学习ML",
     "fpga/FPGA.md",
     "appendix/pexels-pixabay-256262.jpg",
