@@ -65,3 +65,10 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/f8637caa80fa8e7544cf7a3984effc8770414fbf9e95e253c94dc681ea5fc88a/stack-of-tasks/pinocchio/issues/802
 ```
+
+```cardlink
+url: https://blog.csdn.net/dai19981003/article/details/131985177
+title: "【pinocchio动力学库03】pinocchio动力学库中的迭代牛顿-欧拉算法RNEA相关函数_动力学库pinocchio-CSDN博客"
+description: "文章浏览阅读1.1k次。pinocchio动力学库中的迭代牛顿-欧拉算法RNEA相关函数_动力学库pinocchio"
+host: blog.csdn.net
+```
