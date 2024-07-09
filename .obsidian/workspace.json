@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
-                "mode": "preview",
+                "file": "网址收藏夹/网址导航.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "网址收藏夹/网址导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "网址收藏夹/网址导航.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md"
+                "file": "网址收藏夹/网址导航.md"
               }
             }
           },
@@ -158,6 +157,9 @@
   },
   "active": "01ab364290cfa720",
   "lastOpenFiles": [
+    "robotic/notebook/pinocchio/pinocchio.md",
+    "网址收藏夹/网址导航.md",
+    "网址收藏夹",
     "robotic/notebook/git.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/模仿学习ML/Mobile Aloha.md",
@@ -176,7 +178,6 @@
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/ROS2/realsense d435i.md",
     "2024-06-27.md",
-    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/notebook/ROS2/foxglove/foxglove.md",
