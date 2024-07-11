@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/MPC/MPC.md",
+                "file": "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/MPC/MPC.md",
+                "file": "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/MPC/MPC.md",
+                "file": "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/MPC/MPC.md"
+                "file": "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md"
               }
             }
           },
@@ -155,12 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7da47d29881fa24b",
+  "active": "e73aca70d5b8d14e",
   "lastOpenFiles": [
+    "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/OCS2.md",
+    "robotic/notebook/Control/SQP.md",
+    "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
     "robotic/notebook/Control/MPC/未命名",
     "robotic/notebook/Control/MPC",
-    "robotic/notebook/Control/OCS2.md",
-    "robotic/notebook/Control/MPC/MPC.md",
     "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/Control.md",
@@ -188,12 +190,10 @@
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix",
-    "robotic/notebook/Control/SQP.md",
     "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
     "未命名.canvas",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
-    "robotic/notebook/ROS2/ros2_control",
     "README.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
