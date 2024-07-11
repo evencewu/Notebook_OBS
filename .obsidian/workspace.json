@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42765bdb8929e69f",
+        "id": "0296e22c03ca6320",
         "type": "tabs",
         "children": [
           {
-            "id": "6559e5c37d0a4eff",
+            "id": "e73aca70d5b8d14e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "robotic/notebook/pinocchio/pinocchio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "robotic/notebook/pinocchio/pinocchio.md"
+              }
             }
           },
           {
@@ -147,8 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7da47d29881fa24b",
+  "active": "e73aca70d5b8d14e",
   "lastOpenFiles": [
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "网址收藏夹/网址导航.md",
     "网址收藏夹",
@@ -178,7 +188,6 @@
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
     "robotic/notebook/ROS2/ros2_control",
     "README.md",
-    "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/ROS2/ROS2.md",
@@ -187,7 +196,6 @@
     "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
     "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC.md",
-    "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/Control/Control.md"
+    "robotic/notebook/Control/DDP.md"
   ]
 }
