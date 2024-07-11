@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
-                "mode": "preview",
+                "file": "robotic/notebook/Control/MPC.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/Control/MPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md",
+                "file": "robotic/notebook/Control/MPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/pinocchio/pinocchio.md"
+                "file": "robotic/notebook/Control/MPC.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "e73aca70d5b8d14e",
   "lastOpenFiles": [
+    "robotic/notebook/Control/Fliter.md",
+    "robotic/notebook/Control/DDP.md",
+    "robotic/notebook/Control/Control.md",
+    "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/pinocchio/pinocchio.md",
     "robotic/notebook/gazebo/gazebo.md",
     "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
@@ -181,7 +186,6 @@
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix",
     "robotic/notebook/Control/SQP.md",
-    "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
     "未命名.canvas",
@@ -192,10 +196,6 @@
     "robotic/notebook/ROS2/moviet2/moviet2.md",
     "robotic/notebook/ROS2/ROS2.md",
     "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md",
-    "robotic/notebook/stm32/SPI.md",
-    "robotic/notebook/stm32/cpp-arm 编译环境的安装.md",
-    "robotic/notebook/Control/OCS2.md",
-    "robotic/notebook/Control/MPC.md",
-    "robotic/notebook/Control/DDP.md"
+    "robotic/notebook/stm32/SPI.md"
   ]
 }
