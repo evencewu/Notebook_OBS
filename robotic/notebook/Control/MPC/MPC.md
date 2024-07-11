@@ -21,9 +21,9 @@ $$\dot{\mathbf{x}} = \begin{bmatrix} \dot{x} \\ \frac{F}{m} \end{bmatrix} = \beg
 
 离散化状态空间方程：
 假设采样时间为 \( T \)，则离散化后的系统模型为：
-\[ \mathbf{x}_{k+1} = A \mathbf{x}_k + B u_k \]
+$\mathbf{x}_{k+1} = A \mathbf{x}_k + B u_k$
 其中：
-\[ A = \begin{bmatrix} 1 & T \\ 0 & 1 \end{bmatrix}, \quad B = \begin{bmatrix} \frac{T^2}{2m} \\ \frac{T}{m} \end{bmatrix} \]
+$$A = \begin{bmatrix} 1 & T \\ 0 & 1 \end{bmatrix}, \quad B = \begin{bmatrix} \frac{T^2}{2m} \\ \frac{T}{m} \end{bmatrix}$$
 
 ### MPC设计
 #### 目标函数

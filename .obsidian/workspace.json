@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/MPC/MPC.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/MPC/MPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md",
+                "file": "robotic/notebook/Control/MPC/MPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/MPC.md"
+                "file": "robotic/notebook/Control/MPC/MPC.md"
               }
             }
           },
@@ -155,10 +155,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e73aca70d5b8d14e",
+  "active": "7da47d29881fa24b",
   "lastOpenFiles": [
+    "robotic/notebook/Control/MPC/未命名",
+    "robotic/notebook/Control/MPC",
     "robotic/notebook/Control/OCS2.md",
-    "robotic/notebook/Control/MPC.md",
+    "robotic/notebook/Control/MPC/MPC.md",
     "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/Control.md",
@@ -195,7 +197,6 @@
     "README.md",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/ROS2/moviet2/moviet2.md",
-    "robotic/notebook/ROS2/ROS2.md",
-    "robotic/notebook/issacsim/issacgym/omniisaacgymenvs 笔记.md"
+    "robotic/notebook/ROS2/ROS2.md"
   ]
 }
