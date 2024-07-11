@@ -12,12 +12,12 @@
 $$ m \frac{d^2x}{dt^2} = F $$
 其中：
 $m$ 是滑块的质量
-- \( x \) 是滑块的位置
-- \( F \) 是施加在滑块上的力
+$x$ 是滑块的位置
+$F$ 是施加在滑块上的力
 
 将其转化为状态空间模型：
-定义状态向量 \( \mathbf{x} = \begin{bmatrix} x \\ \dot{x} \end{bmatrix} \)，则状态空间方程为：
-\[ \dot{\mathbf{x}} = \begin{bmatrix} \dot{x} \\ \frac{F}{m} \end{bmatrix} = \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} \mathbf{x} + \begin{bmatrix} 0 \\ \frac{1}{m} \end{bmatrix} F \]
+定义状态向量 $\mathbf{x} = \begin{bmatrix} x \\ \dot{x} \end{bmatrix}$，则状态空间方程为：
+$$\dot{\mathbf{x}} = \begin{bmatrix} \dot{x} \\ \frac{F}{m} \end{bmatrix} = \begin{bmatrix} 0 & 1 \\ 0 & 0 \end{bmatrix} \mathbf{x} + \begin{bmatrix} 0 \\ \frac{1}{m} \end{bmatrix} F $$
 
 离散化状态空间方程：
 假设采样时间为 \( T \)，则离散化后的系统模型为：
