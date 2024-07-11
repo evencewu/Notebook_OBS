@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -155,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e73aca70d5b8d14e",
+  "active": "7da47d29881fa24b",
   "lastOpenFiles": [
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/OCS2.md",
