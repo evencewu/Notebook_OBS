@@ -138,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 1318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +154,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e73aca70d5b8d14e",
+  "active": "e1bf0289631f4bc7",
   "lastOpenFiles": [
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/OCS2.md",
