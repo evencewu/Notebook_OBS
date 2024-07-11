@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "afab1c7353208b77",
+        "id": "42765bdb8929e69f",
         "type": "tabs",
         "children": [
           {
-            "id": "5903e418788f67de",
+            "id": "6559e5c37d0a4eff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网址收藏夹/网址导航.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网址收藏夹/网址导航.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网址收藏夹/网址导航.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "网址收藏夹/网址导航.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5903e418788f67de",
+  "active": "7da47d29881fa24b",
   "lastOpenFiles": [
+    "robotic/my_project/Orthrus/Orthrus.md",
     "网址收藏夹/网址导航.md",
     "网址收藏夹",
     "web/未命名.canvas",
@@ -195,7 +188,6 @@
     "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/Control/Control.md",
-    "robotic/notebook/issacsim/issacgym/issacgym.md"
+    "robotic/notebook/Control/Control.md"
   ]
 }
