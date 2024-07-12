@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/vins/未命名.md",
+                "file": "robotic/notebook/vins/vins.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "ab22c3cc5a56bc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/vins/未命名.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/vins/未命名.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/vins/未命名.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e73aca70d5b8d14e",
+  "active": "ab22c3cc5a56bc5b",
   "lastOpenFiles": [
+    "robotic/notebook/vins/vins.md",
+    "conflict-files-obsidian-git.md",
     "robotic/notebook/fusion360/fusion360.md",
-    "robotic/notebook/vins/未命名.md",
     "robotic/notebook/vins",
     "robotic/notebook/gazebo/Ignition.md",
     "robotic/notebook/gazebo/gazebo.md",
@@ -195,7 +209,6 @@
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/git.md",
-    "robotic/notebook/NoteBook.md",
     "未命名.canvas"
   ]
 }
