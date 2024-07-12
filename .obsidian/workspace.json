@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0296e22c03ca6320",
+        "id": "d7c0f88461d96ef7",
         "type": "tabs",
         "children": [
           {
-            "id": "e73aca70d5b8d14e",
+            "id": "01ab364290cfa720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
-                "mode": "source",
+                "file": "web/web.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pinocchi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
+                "file": "web/web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
+                "file": "web/web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md"
+                "file": "web/web.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1318.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,48 +155,48 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e73aca70d5b8d14e",
+  "active": "01ab364290cfa720",
   "lastOpenFiles": [
     "robotic/notebook/Control/MPC/QP问题.md",
-    "robotic/notebook/Control/MPC/KKT条件.md",
-    "robotic/notebook/Control/MPC.md",
-    "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
-    "robotic/notebook/Control/SQP.md",
-    "robotic/notebook/Control/MPC/未命名",
+    "robotic/notebook/Control/MPC/KKT条件.md",
     "robotic/notebook/Control/MPC",
-    "robotic/notebook/Control/Fliter.md",
-    "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/Control/Control.md",
-    "robotic/notebook/pinocchio/pinocchio.md",
-    "robotic/notebook/gazebo/gazebo.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
-    "robotic/my_project/Orthrus/Orthrus.md",
-    "网址收藏夹/网址导航.md",
-    "网址收藏夹",
-    "web/未命名.canvas",
+    "2024-06-27.md",
     "web/web.md",
+    "网址收藏夹/网址导航.md",
     "web",
+    "robotic/notebook/pinocchio/pinocchio.md",
+    "网址收藏夹",
+    "robotic/notebook/git.md",
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/模仿学习ML/Mobile Aloha.md",
     "robotic/模仿学习ML/appendix/mobile-aloha.pdf",
     "robotic/模仿学习ML/appendix",
-    "robotic/模仿学习ML/Mobile Aloha.md",
     "robotic/模仿学习ML",
-    "robotic/notebook/数学基础/李群流形.md",
-    "robotic/notebook/数学基础",
-    "robotic/notebook/linux/网卡驱动.md",
-    "robotic/notebook/linux/更换内核.md",
-    "robotic/notebook/ROS2/realsense d435i.md",
-    "robotic/notebook/ROS2/foxglove/foxglove.md",
-    "robotic/notebook/ROS2/foxglove",
+    "fpga/FPGA.md",
+    "appendix/pexels-pixabay-256262.jpg",
+    "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
-    "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
-    "robotic/notebook/Control/appendix",
-    "robotic/notebook/git.md",
-    "robotic/notebook/NoteBook.md",
-    "未命名.canvas",
+    "robotic/notebook/Control/Fliter.md",
     "robotic/notebook/ROS2/ros2_control/ros2_control.md",
-    "README.md",
-    "robotic/notebook/gazebo/Ignition.md"
+    "robotic/notebook/linux/更换内核.md",
+    "robotic/notebook/linux/网卡驱动.md",
+    "robotic/notebook/ROS2/ROS2.md",
+    "robotic/notebook/ROS2/realsense d435i.md",
+    "robotic/my_project/SimpleEthercat/SimpleEthercat.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
+    "robotic/notebook/ROS2/foxglove/foxglove.md",
+    "robotic/notebook/ROS2/moviet2/moviet2.md",
+    "robotic/notebook/issacsim/issacsim.md",
+    "robotic/notebook/gazebo/Ignition.md",
+    "robotic/notebook/ROS2/foxglove",
+    "robotic/notebook/gazebo/未命名.md",
+    "robotic/notebook/Control/SQP.md",
+    "robotic/notebook/Control/appendix",
+    "robotic/notebook/Control/OCS2.md",
+    "robotic/notebook/数学基础",
+    "obsidian/config/obsidian/plugins/obsidian-icons-plugin/main.js",
+    "web/未命名.canvas"
   ]
 }
