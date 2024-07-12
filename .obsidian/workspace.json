@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
+                "file": "robotic/notebook/vins/未命名.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
+                "file": "robotic/notebook/vins/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md",
+                "file": "robotic/notebook/vins/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robotic/notebook/Control/MPC/KKT条件.md"
+                "file": "robotic/notebook/vins/未命名.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1318.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +156,17 @@
   },
   "active": "e73aca70d5b8d14e",
   "lastOpenFiles": [
-    "robotic/notebook/Control/MPC/QP问题.md",
+    "robotic/notebook/fusion360/fusion360.md",
+    "robotic/notebook/vins/未命名.md",
+    "robotic/notebook/vins",
+    "robotic/notebook/gazebo/Ignition.md",
+    "robotic/notebook/gazebo/gazebo.md",
+    "robotic/notebook/Ethercat/Ethercat.md",
+    "robotic/notebook/数学基础/李群流形.md",
+    "robotic/notebook/Control/Control.md",
+    "robotic/notebook/Control/DDP.md",
     "robotic/notebook/Control/MPC/KKT条件.md",
+    "robotic/notebook/Control/MPC/QP问题.md",
     "robotic/notebook/Control/MPC.md",
     "robotic/notebook/Control/OCS2.md",
     "robotic/notebook/Control/MPC/简单二阶线性系统模型推导.md",
@@ -165,11 +174,7 @@
     "robotic/notebook/Control/MPC/未命名",
     "robotic/notebook/Control/MPC",
     "robotic/notebook/Control/Fliter.md",
-    "robotic/notebook/Control/DDP.md",
-    "robotic/notebook/Control/Control.md",
     "robotic/notebook/pinocchio/pinocchio.md",
-    "robotic/notebook/gazebo/gazebo.md",
-    "robotic/notebook/Ethercat/Ethercat.md",
     "robotic/my_project/Orthrus/Orthrus.md",
     "网址收藏夹/网址导航.md",
     "网址收藏夹",
@@ -180,7 +185,6 @@
     "robotic/模仿学习ML/appendix",
     "robotic/模仿学习ML/Mobile Aloha.md",
     "robotic/模仿学习ML",
-    "robotic/notebook/数学基础/李群流形.md",
     "robotic/notebook/数学基础",
     "robotic/notebook/linux/网卡驱动.md",
     "robotic/notebook/linux/更换内核.md",
@@ -190,12 +194,8 @@
     "robotic/notebook/Control/appendix/Pasted image 20240606233457.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233433.png",
     "robotic/notebook/Control/appendix/Pasted image 20240606233414.png",
-    "robotic/notebook/Control/appendix",
     "robotic/notebook/git.md",
     "robotic/notebook/NoteBook.md",
-    "未命名.canvas",
-    "robotic/notebook/ROS2/ros2_control/ros2_control.md",
-    "README.md",
-    "robotic/notebook/gazebo/Ignition.md"
+    "未命名.canvas"
   ]
 }

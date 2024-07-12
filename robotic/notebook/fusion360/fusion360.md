@@ -10,8 +10,6 @@ host: github.com
 favicon: https://github.githubassets.com/favicons/favicon.svg
 image: https://opengraph.githubassets.com/05bb65b102ad6063b2a9c4a7b9c1054b6e17d80c917b889cd987298dc2c1588a/cryinkfly/Autodesk-Fusion-360-for-Linux
 ```
-
-
 ```cardlink
 url: https://getiot.tech/zh/ubuntu/ubuntu-install-fusion360/
 title: "Ubuntu 安装 Fusion360 | 人人都懂物联网"
@@ -20,8 +18,6 @@ host: getiot.tech
 favicon: https://getiot.tech/zh/img/favicon.png
 image: https://getiot.tech/zh/img/getiot-social-card.jpg
 ```
-
-
 ```cardlink
 url: https://github.com/cryinkfly/Autodesk-Fusion-360-for-Linux/issues/233
 title: "Install YAD on my computer *solved* · Issue #233 · cryinkfly/Autodesk-Fusion-360-for-Linux"
